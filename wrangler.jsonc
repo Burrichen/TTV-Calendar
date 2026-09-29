@@ -1,0 +1,47 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // The Worker's name. It becomes part of the workers.dev URL:
+  //   https://ttv-calendar-bot.<your-subdomain>.workers.dev
+  // which is what Slack's Interactivity Request URL points at.
+  "name": "ttv-calendar-bot",
+  "main": "worker/index.ts",
+  // Pins the runtime's behaviour. Changing it opts into newer semantics; leaving it
+  // alone means a redeploy months from now behaves exactly like today's.
+  "compatibility_date": "2026-09-01",
+  // No `nodejs_compat` flag: nothing in the Worker's import graph touches a Node
+  // built-in.
+  //
+  // No `triggers.crons` either, and that is the important one. This Worker is
+  // request-driven only: it wakes for a Slack button click or a state API call from the
+  // GitHub Actions runner, and otherwise does not run. Tennis TV monitoring and the
+  // scheduled reports belong to GitHub Actions — see the Architecture History in
+  // docs/ARCHITECTURE.md for why that was moved out of here.
+  // The binding name MUST be "DB" — that is what the Worker reads as `env.DB`.
+  // `wrangler d1 create` suggests a binding named after the database instead, so do
+  // not paste its output wholesale: take only the `database_id` from it.
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ttv-calendar",
+      "database_id": "0cae61d4-0b94-4130-82c8-48ad2427980c",
+      "migrations_dir": "migrations",
+      "remote": true,
+    },
+  ],
+  // Non-secret configuration. Secrets (SLACK_SIGNING_SECRET, INTERNAL_API_SECRET) are set
+  // with `wrangler secret put` and MUST NOT appear here — this file is committed.
+  //
+  // Note there is no SLACK_BOT_TOKEN: the Worker sends nothing to Slack. Button
+  // confirmations are returned in the HTTP response itself, and every outgoing message
+  // is posted by the Node application.
+  "vars": {
+    // Fallback channel for a button payload that arrives without one.
+    "SLACK_CHANNEL_ID": "C0BKVJ46UKZ",
+    "LOG_LEVEL": "info",
+  },
+  // Cloudflare's built-in logging. Free, and the only observability this needs:
+  // `wrangler tail` streams it live, and the dashboard keeps a short history.
+  "observability": {
+    "enabled": true,
+  },
+}

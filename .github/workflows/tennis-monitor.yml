@@ -1,0 +1,88 @@
+# Live-state monitoring.
+#
+# Runs every 30 minutes, around the clock, and posts an alert when a match Tennis TV
+# explicitly reports as LIVE, DELAYED or CANCELLED changes into that state.
+#
+# The schedule is offset to :07 and :37 rather than :00 and :30 deliberately. GitHub's
+# scheduler is heavily congested on the hour and half-hour, and a queued run can be
+# delayed by many minutes; the quieter minutes start noticeably closer to on time. The
+# gap between runs is still exactly 30 minutes either way.
+
+name: Tennis monitor
+
+on:
+  schedule:
+    # NOTE: GitHub Actions cron is UTC only — it has no timezone field. That is fine
+    # here: this workflow has no local-time semantics at all, it simply runs twice an
+    # hour. Anything that *does* depend on UK local time is decided inside the
+    # application against the IANA database. No offset is written down anywhere.
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Log Slack messages instead of sending them'
+        type: boolean
+        default: false
+        required: false
+
+# Read-only. The workflow checks out the code and talks to Tennis TV, Slack and the
+# Cloudflare state API over the network; it writes nothing back to the repository.
+permissions:
+  contents: read
+
+# One monitor run at a time. Two overlapping runs would not duplicate a message — the
+# claim in D1 is the real guarantee — but they would double the Tennis TV request rate
+# for no benefit. `cancel-in-progress: false` because a run already talking to Slack
+# should be allowed to finish and settle its claim rather than being killed mid-flight.
+concurrency:
+  group: tennis-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    # Generous next to a run that normally takes seconds, and tight enough that a hung
+    # request cannot burn Actions minutes. The application's own RUN_TIMEOUT_SECONDS
+    # fires first and produces a diagnostic; this is the backstop.
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          # Only the current commit. There is no history to read, and a shallow clone
+          # is measurably faster on a job that runs this often.
+          fetch-depth: 1
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      # `npm ci` installs exactly the lockfile. `--omit=dev` keeps it to the four
+      # runtime dependencies, since the command runs TypeScript directly and needs no
+      # build step or test tooling.
+      - name: Install production dependencies
+        run: npm ci --omit=dev --no-audit --no-fund
+
+      - name: Run the live monitor
+        run: npm run bot:monitor
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          INTERNAL_API_SECRET: ${{ secrets.INTERNAL_API_SECRET }}
+          SLACK_CHANNEL_ID: ${{ vars.SLACK_CHANNEL_ID }}
+          STATE_API_URL: ${{ vars.STATE_API_URL }}
+          APP_TIMEZONE: ${{ vars.APP_TIMEZONE }}
+          TENNISTV_BASE_URL: ${{ vars.TENNISTV_BASE_URL }}
+          SUMMARY_HOUR: ${{ vars.SUMMARY_HOUR }}
+          TENNISTV_API_BASE_URL: ${{ vars.TENNISTV_API_BASE_URL }}
+          TENNISTV_ACCOUNT_ID: ${{ vars.TENNISTV_ACCOUNT_ID }}
+          MONITOR_SCHEDULE_SLIP_MINUTES: ${{ vars.MONITOR_SCHEDULE_SLIP_MINUTES }}
+          STATE_RETENTION_DAYS: ${{ vars.STATE_RETENTION_DAYS }}
+          RUN_TIMEOUT_SECONDS: ${{ vars.RUN_TIMEOUT_SECONDS }}
+          LOG_LEVEL: ${{ vars.LOG_LEVEL }}
+          SLACK_DRY_RUN: ${{ inputs.dry_run }}
+          # TENNISTV_PROVIDER is deliberately NOT exposed as a repository variable.
+          # Production must always read the real site; a stray "fixture" would make the
+          # bot quietly report recorded data as though it were today's schedule.

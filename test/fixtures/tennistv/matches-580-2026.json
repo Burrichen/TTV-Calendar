@@ -1,0 +1,612 @@
+{
+  "matches": [
+    {
+      "MatchId": "WSSR67670338",
+      "AssociationCode": "WTA",
+      "MatchDate": "2026-01-12T10:00:00",
+      "CourtName": "1573 Arena",
+      "Round": {
+        "ShortName": "Q1",
+        "LongName": "Qualification Round 1",
+        "RoundId": 1
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "sr:competitor:299308",
+      "ResultString": "76(5) 76(6)",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:299308",
+        "PlayerFirstName": "T.",
+        "PlayerFirstNameFull": "Tina Nadine",
+        "PlayerLastName": "Smith",
+        "PlayerCountryCode": "AUS",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "7",
+            "TieBreakScore": "7"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "7",
+            "TieBreakScore": "8"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:751899",
+        "PlayerFirstName": "C.",
+        "PlayerFirstNameFull": "Cadence",
+        "PlayerLastName": "Brace",
+        "PlayerCountryCode": "CAN",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6",
+            "TieBreakScore": "5"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6",
+            "TieBreakScore": "6"
+          }
+        ]
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "WSSR67662422",
+      "AssociationCode": "WTA",
+      "MatchDate": "2026-01-12T10:00:00",
+      "CourtName": "Court 7",
+      "Round": {
+        "ShortName": "Q1",
+        "LongName": "Qualification Round 1",
+        "RoundId": 1
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "sr:competitor:721779",
+      "ResultString": "63 63",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:721779",
+        "PlayerFirstName": "N.",
+        "PlayerFirstNameFull": "Nikola",
+        "PlayerLastName": "Bartunkova",
+        "PlayerCountryCode": "CZE",
+        "SeedPlayerTeam": "16",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:505970",
+        "PlayerFirstName": "S.",
+        "PlayerFirstNameFull": "Selena",
+        "PlayerLastName": "Janicijevic",
+        "PlayerCountryCode": "FRA",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "3"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "3"
+          }
+        ]
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "WSSR67662528",
+      "AssociationCode": "WTA",
+      "MatchDate": "2026-01-12T10:00:00",
+      "CourtName": "Court 5",
+      "Round": {
+        "ShortName": "Q1",
+        "LongName": "Qualification Round 1",
+        "RoundId": 1
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "sr:competitor:679319",
+      "ResultString": "57 64 57",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:227390",
+        "PlayerFirstName": "N.",
+        "PlayerFirstNameFull": "Nuria",
+        "PlayerLastName": "Brancaccio",
+        "PlayerCountryCode": "ITA",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "5"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "5"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:679319",
+        "PlayerFirstName": "M.",
+        "PlayerFirstNameFull": "Mary",
+        "PlayerLastName": "Stoiana",
+        "PlayerCountryCode": "USA",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "7"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "4"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "7"
+          }
+        ]
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "WSSR67662520",
+      "AssociationCode": "WTA",
+      "MatchDate": "2026-01-13T10:00:00",
+      "CourtName": "Court 17",
+      "Round": {
+        "ShortName": "Q1",
+        "LongName": "Qualification Round 1",
+        "RoundId": 1
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "sr:competitor:380396",
+      "Reason": "RET",
+      "ResultString": "64 26 23",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:433758",
+        "PlayerFirstName": "S.",
+        "PlayerFirstNameFull": "Sijia",
+        "PlayerLastName": "Wei",
+        "PlayerCountryCode": "CHN",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "2"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "2"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:380396",
+        "PlayerFirstName": "E.",
+        "PlayerFirstNameFull": "Elvina",
+        "PlayerLastName": "Kalieva",
+        "PlayerCountryCode": "USA",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "4"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "3"
+          }
+        ]
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "QSSR67662984",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-13T17:05:00",
+      "CourtName": "Court 17",
+      "Round": {
+        "ShortName": "Q1",
+        "LongName": "Qualification Round 1",
+        "RoundId": 1
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "GF95",
+      "Reason": "RET",
+      "ResultString": "67(9) 01",
+      "PlayerTeam1": {
+        "PlayerId": "GE33",
+        "PlayerFirstName": "D.",
+        "PlayerFirstNameFull": "Daniel Elahi",
+        "PlayerLastName": "Galan",
+        "PlayerCountryCode": "COL",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6",
+            "TieBreakScore": "9"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "0"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "GF95",
+        "PlayerFirstName": "H.",
+        "PlayerFirstNameFull": "Hugo",
+        "PlayerLastName": "Grenier",
+        "PlayerCountryCode": "FRA",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "7",
+            "TieBreakScore": "11"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "1"
+          }
+        ]
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "QSSR67698304",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-14T10:00:00",
+      "CourtName": "ANZ Arena",
+      "Round": {
+        "ShortName": "Q2",
+        "LongName": "Qualification Round 2",
+        "RoundId": 2
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "L0CF",
+      "Reason": "RET",
+      "ResultString": "36 13",
+      "PlayerTeam1": {
+        "PlayerId": "N732",
+        "PlayerFirstName": "Y.",
+        "PlayerFirstNameFull": "Yoshihito",
+        "PlayerLastName": "Nishioka",
+        "PlayerCountryCode": "JPN",
+        "SeedPlayerTeam": "8",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "3"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "1"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "L0CF",
+        "PlayerFirstName": "G.",
+        "PlayerFirstNameFull": "George",
+        "PlayerLastName": "Loffhagen",
+        "PlayerCountryCode": "GBR",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "3"
+          }
+        ]
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "WDSR67775766",
+      "AssociationCode": "WTA",
+      "MatchDate": "2026-01-23T16:00:00",
+      "CourtName": "Court 8",
+      "Round": {
+        "ShortName": "R32",
+        "LongName": "Round Of 32",
+        "RoundId": 5
+      },
+      "NumberOfSets": 3,
+      "Status": "WO",
+      "WinningPlayerId": "sr:competitor:18936",
+      "Reason": "W/O",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:18936",
+        "PlayerFirstName": "S.",
+        "PlayerFirstNameFull": "Su-Wei",
+        "PlayerLastName": "Hsieh",
+        "PlayerCountryCode": "TPE",
+        "PartnerId": "sr:competitor:64496",
+        "PartnerFirstName": "J.",
+        "PartnerFirstNameFull": "Jelena",
+        "PartnerLastName": "Ostapenko",
+        "PartnerCountryCode": "LVA",
+        "SeedPlayerTeam": "3"
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:211262",
+        "PlayerFirstName": "O.",
+        "PlayerFirstNameFull": "Olga",
+        "PlayerLastName": "Danilovic",
+        "PlayerCountryCode": "SRB",
+        "PartnerId": "sr:competitor:234150",
+        "PartnerFirstName": "A.",
+        "PartnerFirstNameFull": "Anastasia",
+        "PartnerLastName": "Potapova",
+        "PartnerCountryCode": "AUT"
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "WSSR67664742",
+      "AssociationCode": "WTA",
+      "MatchDate": "2026-01-24T21:10:00",
+      "CourtName": "Rod Laver Arena",
+      "Round": {
+        "ShortName": "R32",
+        "LongName": "Round Of 32",
+        "RoundId": 5
+      },
+      "NumberOfSets": 3,
+      "Status": "WO",
+      "WinningPlayerId": "sr:competitor:99405",
+      "Reason": "W/O",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:66476",
+        "PlayerFirstName": "N.",
+        "PlayerFirstNameFull": "Naomi",
+        "PlayerLastName": "Osaka",
+        "PlayerCountryCode": "JPN",
+        "SeedPlayerTeam": "16"
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:99405",
+        "PlayerFirstName": "M.",
+        "PlayerFirstNameFull": "Maddison",
+        "PlayerLastName": "Inglis",
+        "PlayerCountryCode": "AUS"
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "MSSR67664582",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-26T20:10:00",
+      "CourtName": "Margaret Court Arena",
+      "Round": {
+        "ShortName": "R16",
+        "LongName": "Round Of 16",
+        "RoundId": 4
+      },
+      "NumberOfSets": 5,
+      "Status": "WO",
+      "WinningPlayerId": "D643",
+      "Reason": "W/O",
+      "PlayerTeam1": {
+        "PlayerId": "M0NI",
+        "PlayerFirstName": "J.",
+        "PlayerFirstNameFull": "Jakub",
+        "PlayerLastName": "Mensik",
+        "PlayerCountryCode": "CZE",
+        "SeedPlayerTeam": "16"
+      },
+      "PlayerTeam2": {
+        "PlayerId": "D643",
+        "PlayerFirstName": "N.",
+        "PlayerFirstNameFull": "Novak",
+        "PlayerLastName": "Djokovic",
+        "PlayerCountryCode": "SRB",
+        "SeedPlayerTeam": "4"
+      },
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "CourtSeq": 2,
+      "MatchId": "sr:sport_event:67662966",
+      "AssociationCode": "ATP",
+      "TournamentCode": "580",
+      "NotBeforeISOTime": "10:00+1100",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "GK06",
+              "OrderInTeam": 1,
+              "FirstName": "Alexis",
+              "LastName": "Galarneau",
+              "Country": "CAN",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "B0NN",
+              "OrderInTeam": 1,
+              "FirstName": "Nishesh",
+              "LastName": "Basavareddy",
+              "Country": "USA",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 1,
+      "Round": {
+        "RoundId": 1,
+        "RoundIdModernized": 1,
+        "RoundName": "Qualification Round 1",
+        "ShortName": "Q1"
+      },
+      "Status": "Finished",
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-12T00:00:00",
+      "DateSeq": 1,
+      "CourtId": 5,
+      "CourtName": "Court 13"
+    },
+    {
+      "CourtSeq": 2,
+      "MatchId": "sr:sport_event:67662994",
+      "AssociationCode": "ATP",
+      "TournamentCode": "580",
+      "NotBeforeISOTime": "13:25+1100",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "H09P",
+              "OrderInTeam": 1,
+              "FirstName": "Brandon",
+              "LastName": "Holt",
+              "Country": "USA",
+              "Seed": 5
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "N0CS",
+              "OrderInTeam": 1,
+              "FirstName": "Lukas",
+              "LastName": "Neumayer",
+              "Country": "AUT",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 1,
+      "Round": {
+        "RoundId": 1,
+        "RoundIdModernized": 1,
+        "RoundName": "Qualification Round 1",
+        "ShortName": "Q1"
+      },
+      "Status": "Finished",
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-12T00:00:00",
+      "DateSeq": 1,
+      "CourtId": 1,
+      "CourtName": "1573 Arena"
+    },
+    {
+      "CourtSeq": 2,
+      "MatchId": "sr:sport_event:67662902",
+      "AssociationCode": "ATP",
+      "TournamentCode": "580",
+      "NotBeforeISOTime": "10:00+1100",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "D0DT",
+              "OrderInTeam": 1,
+              "FirstName": "Martin",
+              "LastName": "Damm Jr",
+              "Country": "USA",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "O0A2",
+              "OrderInTeam": 1,
+              "FirstName": "Gauthier",
+              "LastName": "Onclin",
+              "Country": "BEL",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 1,
+      "Round": {
+        "RoundId": 1,
+        "RoundIdModernized": 1,
+        "RoundName": "Qualification Round 1",
+        "ShortName": "Q1"
+      },
+      "Status": "Finished",
+      "TournamentId": 580,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-12T00:00:00",
+      "DateSeq": 1,
+      "CourtId": 9,
+      "CourtName": "Court 17"
+    }
+  ]
+}

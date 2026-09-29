@@ -1,0 +1,804 @@
+{
+  "matches": [
+    {
+      "MatchId": "QS023",
+      "AssociationCode": "ATP",
+      "DateSeq": 1,
+      "MatchDate": "2026-01-03T10:09:07",
+      "CourtId": 3,
+      "CourtName": "Show Court 2",
+      "Round": {
+        "LongName": "Qualifying Round 1",
+        "RoundId": 2
+      },
+      "MatchTime": "02:23:48",
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "CD85",
+      "Serve": "0",
+      "PlayerTeam1": {
+        "PlayerId": "CD85",
+        "PlayerFirstName": "P.",
+        "PlayerFirstNameFull": "Pablo",
+        "PlayerLastName": "Carreno Busta",
+        "PlayerCountryCode": "ESP",
+        "SeedPlayerTeam": "0",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "2"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "7",
+            "TieBreakScore": "7"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "B0GG",
+        "PlayerFirstName": "M.",
+        "PlayerFirstNameFull": "Mattia",
+        "PlayerLastName": "Bellucci",
+        "PlayerCountryCode": "ITA",
+        "SeedPlayerTeam": "7",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "4"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "6",
+            "TieBreakScore": "3"
+          }
+        ]
+      },
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "C",
+      "CourtSeq": 1
+    },
+    {
+      "MatchId": "QS025",
+      "AssociationCode": "ATP",
+      "DateSeq": 1,
+      "MatchDate": "2026-01-03T10:10:23",
+      "CourtId": 6,
+      "CourtName": "Court 6",
+      "Round": {
+        "LongName": "Qualifying Round 1",
+        "RoundId": 2
+      },
+      "MatchTime": "01:30:46",
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "C0JP",
+      "Serve": "0",
+      "PlayerTeam1": {
+        "PlayerId": "S0H2",
+        "PlayerFirstName": "A.",
+        "PlayerFirstNameFull": "Alexander",
+        "PlayerLastName": "Shevchenko",
+        "PlayerCountryCode": "KAZ",
+        "SeedPlayerTeam": "0",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "5"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "4"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "C0JP",
+        "PlayerFirstName": "R.",
+        "PlayerFirstNameFull": "Raphael",
+        "PlayerLastName": "Collignon",
+        "PlayerCountryCode": "BEL",
+        "SeedPlayerTeam": "9",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "7"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          }
+        ]
+      },
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "C",
+      "CourtSeq": 1
+    },
+    {
+      "MatchId": "QS022",
+      "AssociationCode": "ATP",
+      "DateSeq": 1,
+      "MatchDate": "2026-01-03T10:10:55",
+      "CourtId": 5,
+      "CourtName": "Court 14",
+      "Round": {
+        "LongName": "Qualifying Round 1",
+        "RoundId": 2
+      },
+      "MatchTime": "01:23:03",
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "C0H0",
+      "Serve": "1",
+      "PlayerTeam1": {
+        "PlayerId": "C0H0",
+        "PlayerFirstName": "A.",
+        "PlayerFirstNameFull": "Arthur",
+        "PlayerLastName": "Cazaux",
+        "PlayerCountryCode": "FRA",
+        "SeedPlayerTeam": "4",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "L0IL",
+        "PlayerFirstName": "M.",
+        "PlayerFirstNameFull": "Martin",
+        "PlayerLastName": "Landaluce",
+        "PlayerCountryCode": "ESP",
+        "SeedPlayerTeam": "0",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "3"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "2"
+          }
+        ]
+      },
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "C",
+      "CourtSeq": 1
+    },
+    {
+      "MatchId": "QS008",
+      "AssociationCode": "ATP",
+      "DateSeq": 2,
+      "MatchDate": "2026-01-04T02:13:20",
+      "CourtId": 4,
+      "CourtName": "Court 10",
+      "Round": {
+        "LongName": "Qualifying Round 2",
+        "RoundId": 1
+      },
+      "MatchTime": "00:00:00",
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "H0BH",
+      "Reason": "RET",
+      "Serve": "0",
+      "PlayerTeam1": {
+        "PlayerId": "A0FC",
+        "PlayerFirstName": "M.",
+        "PlayerFirstNameFull": "Matteo",
+        "PlayerLastName": "Arnaldi",
+        "PlayerCountryCode": "ITA",
+        "SeedPlayerTeam": "1"
+      },
+      "PlayerTeam2": {
+        "PlayerId": "H0BH",
+        "PlayerFirstName": "R.",
+        "PlayerFirstNameFull": "Rinky",
+        "PlayerLastName": "Hijikata",
+        "PlayerCountryCode": "AUS",
+        "SeedPlayerTeam": "0"
+      },
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "C",
+      "CourtSeq": 3
+    },
+    {
+      "MatchId": "QS011",
+      "AssociationCode": "ATP",
+      "DateSeq": 2,
+      "MatchDate": "2026-01-04T11:09:52",
+      "CourtId": 5,
+      "CourtName": "Court 14",
+      "Round": {
+        "LongName": "Qualifying Round 2",
+        "RoundId": 1
+      },
+      "MatchTime": "00:46:16",
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "CD85",
+      "Reason": "RET",
+      "Serve": "0",
+      "PlayerTeam1": {
+        "PlayerId": "C0H0",
+        "PlayerFirstName": "A.",
+        "PlayerFirstNameFull": "Arthur",
+        "PlayerLastName": "Cazaux",
+        "PlayerCountryCode": "FRA",
+        "SeedPlayerTeam": "4",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "3"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "CD85",
+        "PlayerFirstName": "P.",
+        "PlayerFirstNameFull": "Pablo",
+        "PlayerLastName": "Carreno Busta",
+        "PlayerCountryCode": "ESP",
+        "SeedPlayerTeam": "0",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "5"
+          }
+        ]
+      },
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "C",
+      "CourtSeq": 1
+    },
+    {
+      "MatchId": "MS010",
+      "AssociationCode": "ATP",
+      "DateSeq": 5,
+      "MatchDate": "2026-01-07T14:47:03",
+      "CourtId": 1,
+      "CourtName": "Pat Rafter Arena",
+      "Round": {
+        "ShortName": "R16",
+        "LongName": "Round of 16",
+        "RoundId": 4
+      },
+      "MatchTime": "00:46:54",
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "K0AH",
+      "Reason": "RET",
+      "Serve": "1",
+      "PlayerTeam1": {
+        "PlayerId": "L0BV",
+        "PlayerFirstName": "J.",
+        "PlayerFirstNameFull": "Jiri",
+        "PlayerLastName": "Lehecka",
+        "PlayerCountryCode": "CZE",
+        "SeedPlayerTeam": "3",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "3"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "2"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "K0AH",
+        "PlayerFirstName": "S.",
+        "PlayerFirstNameFull": "Sebastian",
+        "PlayerLastName": "Korda",
+        "PlayerCountryCode": "USA",
+        "SeedPlayerTeam": "0",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "1"
+          }
+        ]
+      },
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "C",
+      "CourtSeq": 3,
+      "metadata": {
+        "description": "Join us live from Brisbane as third seed and defending champion Jiri Lehecka faces the dangerous Sebastian Korda for a place in the last eight.",
+        "featuredTimeStart": "2026-01-07T05:00:00.000Z"
+      }
+    },
+    {
+      "CourtSeq": 1,
+      "MatchId": "XR005",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeISOTime": "11:00+1000",
+      "NotBeforeText": "Starts At",
+      "IsNightSession": false,
+      "FreeTxt": "QLD MONEY RACE W QF",
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "900000",
+              "OrderInTeam": 1,
+              "FirstName": "Sofia",
+              "LastName": "Savic",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "900001",
+              "OrderInTeam": 1,
+              "FirstName": "Z.",
+              "LastName": "Meaufa-Uren",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 3,
+      "Status": "Finished",
+      "RoundIdModernized": 5,
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-07T00:00:00",
+      "DateSeq": 5,
+      "CourtId": 5,
+      "CourtName": "Court 14"
+    },
+    {
+      "CourtSeq": 2,
+      "MatchId": "XS007",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeText": "Followed By",
+      "IsNightSession": false,
+      "FreeTxt": "QLD MONEY RACE M QF",
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "X503",
+              "OrderInTeam": 1,
+              "FirstName": "Lawson",
+              "LastName": "Swain",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "X500",
+              "OrderInTeam": 1,
+              "FirstName": "Rudy",
+              "LastName": "Thorogood",
+              "Country": "AUS",
+              "Seed": 2
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 3,
+      "Status": "Finished",
+      "RoundIdModernized": 5,
+      "NotBefore": "Followed By",
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-07T00:00:00",
+      "DateSeq": 5,
+      "CourtId": 5,
+      "CourtName": "Court 14"
+    },
+    {
+      "CourtSeq": 3,
+      "MatchId": "XR006",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeText": "Followed By",
+      "IsNightSession": false,
+      "FreeTxt": "QLD MONEY RACE W QF",
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "900002",
+              "OrderInTeam": 1,
+              "FirstName": "Lily Grace",
+              "LastName": "Shepherd",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "336751",
+              "OrderInTeam": 1,
+              "FirstName": "Ruby",
+              "LastName": "Luc",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 3,
+      "Status": "Finished",
+      "RoundIdModernized": 5,
+      "NotBefore": "Followed By",
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-07T00:00:00",
+      "DateSeq": 5,
+      "CourtId": 5,
+      "CourtName": "Court 14"
+    },
+    {
+      "CourtSeq": 4,
+      "MatchId": "XS005",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeText": "Followed By",
+      "IsNightSession": false,
+      "FreeTxt": "QLD MONEY RACE M QF",
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "X502",
+              "OrderInTeam": 1,
+              "FirstName": "Billy",
+              "LastName": "Haoda",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "K0PA",
+              "OrderInTeam": 1,
+              "FirstName": "Christopher",
+              "LastName": "Kerswell",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 3,
+      "Status": "Finished",
+      "RoundIdModernized": 5,
+      "NotBefore": "Followed By",
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-07T00:00:00",
+      "DateSeq": 5,
+      "CourtId": 5,
+      "CourtName": "Court 14"
+    },
+    {
+      "CourtSeq": 1,
+      "MatchId": "XR004",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeISOTime": "11:00+1000",
+      "NotBeforeText": "Starts At",
+      "IsNightSession": false,
+      "FreeTxt": "QLD MONEY RACE W QF",
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "321906",
+              "OrderInTeam": 1,
+              "FirstName": "Kaylah",
+              "LastName": "McPhee",
+              "Country": "AUS",
+              "Seed": 1
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "332365",
+              "OrderInTeam": 1,
+              "FirstName": "Lara",
+              "LastName": "Walker",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 3,
+      "Status": "Finished",
+      "RoundIdModernized": 5,
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-08T00:00:00",
+      "DateSeq": 6,
+      "CourtId": 5,
+      "CourtName": "Court 14"
+    },
+    {
+      "CourtSeq": 1,
+      "MatchId": "XR002",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeISOTime": "11:00+1000",
+      "NotBeforeText": "Starts At",
+      "IsNightSession": false,
+      "FreeTxt": "QLD MONEY RACE W SF",
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "321906",
+              "OrderInTeam": 1,
+              "FirstName": "Kaylah",
+              "LastName": "McPhee",
+              "Country": "AUS",
+              "Seed": 1
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "900000",
+              "OrderInTeam": 1,
+              "FirstName": "Sofia",
+              "LastName": "Savic",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 2,
+      "Status": "Finished",
+      "RoundIdModernized": 6,
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-09T00:00:00",
+      "DateSeq": 7,
+      "CourtId": 5,
+      "CourtName": "Court 14"
+    },
+    {
+      "CourtSeq": 4,
+      "MatchId": "CS006",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeISOTime": "17:00+1000",
+      "NotBeforeText": "Not Before",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "X509",
+              "OrderInTeam": 1,
+              "FirstName": "Zhenxu",
+              "LastName": "Ji",
+              "Country": "CHN",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "X510",
+              "OrderInTeam": 1,
+              "FirstName": "Anderson",
+              "LastName": "Parker",
+              "Country": "AUS",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 3,
+      "Status": "Finished",
+      "RoundIdModernized": 5,
+      "NotBefore": "Not Before",
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-09T00:00:00",
+      "DateSeq": 7,
+      "CourtId": 3,
+      "CourtName": "Show Court 2"
+    },
+    {
+      "CourtSeq": 2,
+      "MatchId": "CS002",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeISOTime": "13:30+1000",
+      "NotBeforeText": "Not Before",
+      "IsNightSession": false,
+      "FreeTxt": "ITF WC Singles SF",
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "H0CM",
+              "OrderInTeam": 1,
+              "FirstName": "Alfie",
+              "LastName": "Hewett",
+              "Country": "GBR",
+              "Seed": 1
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "X505",
+              "OrderInTeam": 1,
+              "FirstName": "Gordon",
+              "LastName": "Reid",
+              "Country": "GBR",
+              "Seed": 0
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 2,
+      "Status": "Finished",
+      "RoundIdModernized": 6,
+      "NotBefore": "Not Before",
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-10T00:00:00",
+      "DateSeq": 8,
+      "CourtId": 3,
+      "CourtName": "Show Court 2"
+    },
+    {
+      "CourtSeq": 3,
+      "MatchId": "CD001",
+      "AssociationCode": "ATP",
+      "TournamentCode": "339",
+      "NotBeforeISOTime": "17:00+1000",
+      "NotBeforeText": "Not Before",
+      "IsNightSession": false,
+      "FreeTxt": "ITF WC Doubles Final / after rest",
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "Players": [
+            {
+              "PlayerId": "H0CM",
+              "OrderInTeam": 1,
+              "FirstName": "Alfie",
+              "LastName": "Hewett",
+              "Country": "GBR",
+              "Seed": 1
+            },
+            {
+              "PlayerId": "X505",
+              "OrderInTeam": 2,
+              "FirstName": "Gordon",
+              "LastName": "Reid",
+              "Country": "GBR",
+              "Seed": 1
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "Players": [
+            {
+              "PlayerId": "X507",
+              "OrderInTeam": 1,
+              "FirstName": "Daniel",
+              "LastName": "Caverzaschi",
+              "Country": "ESP",
+              "Seed": 2
+            },
+            {
+              "PlayerId": "X506",
+              "OrderInTeam": 2,
+              "FirstName": "Ruben",
+              "LastName": "Spaargaren",
+              "Country": "SUI",
+              "Seed": 2
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 1,
+      "Status": "Finished",
+      "RoundIdModernized": 7,
+      "NotBefore": "Not Before",
+      "TournamentId": 339,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-10T00:00:00",
+      "DateSeq": 8,
+      "CourtId": 3,
+      "CourtName": "Show Court 2"
+    }
+  ]
+}

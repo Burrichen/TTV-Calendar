@@ -1,0 +1,23 @@
+{
+  // The Worker runs in `workerd`, not Node: different globals, different libs. Checking
+  // it separately is what stops a `node:` import or a Node-only global slipping in
+  // unnoticed — the Node config would happily accept both.
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "rootDir": ".",
+    "rewriteRelativeImportExtensions": false,
+    "lib": ["ES2023"],
+    // Cloudflare's own types only. Omitting "node" is deliberate: if `process`,
+    // `Buffer` or a `node:` module appears anywhere the Worker can reach, this fails.
+    "types": ["./worker-configuration.d.ts"]
+  },
+  // Only the entry point and `worker-configuration.d.ts` are listed. TypeScript follows
+  // the imports from there, so exactly the modules the Worker actually reaches are
+  // checked against the Workers runtime — and nothing else in `src/` is dragged in to
+  // be checked under the wrong lib.
+  // `test/worker/**` is checked here rather than with the Node tests: those tests
+  // drive the Worker's own handlers and need Cloudflare's globals. The two sets of
+  // ambient types cannot share one program, which is why the split exists at all.
+  "include": ["worker/**/*.ts", "test/worker/**/*.ts", "worker-configuration.d.ts"]
+}

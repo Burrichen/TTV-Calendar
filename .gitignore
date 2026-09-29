@@ -1,0 +1,22 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+
+# reconnaissance output (regenerate with `npm run recon`)
+.recon-out/
+
+# Wrangler build output and local state.
+.wrangler/
+
+# Wrangler's local secrets file. Never commit it: `wrangler dev` reads real secrets
+# from here, so it is a .env by another name.
+.dev.vars
+.dev.vars.*
+
+# Block Kit payloads from `npm run preview:messages -- --json`.
+.preview/

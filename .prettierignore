@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.recon-out/
+test/fixtures/
+package-lock.json
+
+# Markdown is hand-wrapped (tables, ASCII diagrams); leave it alone.
+*.md
+docs/
+worker-configuration.d.ts
+.wrangler/
+.preview/

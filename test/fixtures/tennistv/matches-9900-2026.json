@@ -1,0 +1,967 @@
+{
+  "matches": [
+    {
+      "MatchId": "XSSR66050578",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-02T10:00:00",
+      "CourtName": "RAC Arena",
+      "Round": {
+        "ShortName": "RR",
+        "LongName": "Round Robin Day null",
+        "RoundId": 10
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "B0BI",
+      "ResultString": "46 46",
+      "PlayerTeam1": {
+        "PlayerId": "MU94",
+        "PlayerFirstName": "J.",
+        "PlayerFirstNameFull": "Jaume",
+        "PlayerLastName": "Munar",
+        "PlayerCountryCode": "ESP",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "4"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "4"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "B0BI",
+        "PlayerFirstName": "S.",
+        "PlayerFirstNameFull": "Sebastian",
+        "PlayerLastName": "Baez",
+        "PlayerCountryCode": "ARG",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          }
+        ]
+      },
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "XSSR66050688",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-02T11:10:00",
+      "CourtName": "RAC Arena",
+      "Round": {
+        "ShortName": "RR",
+        "LongName": "Round Robin Day null",
+        "RoundId": 10
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "sr:competitor:504238",
+      "ResultString": "46 75 06",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:405057",
+        "PlayerFirstName": "J.",
+        "PlayerFirstNameFull": "Jessica",
+        "PlayerLastName": "Bouzas Maneiro",
+        "PlayerCountryCode": "ESP",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "4"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "7"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "0"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:504238",
+        "PlayerFirstName": "S.",
+        "PlayerFirstNameFull": "Solana",
+        "PlayerLastName": "Sierra",
+        "PlayerCountryCode": "ARG",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "5"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "6"
+          }
+        ]
+      },
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "XDSR67340804",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-02T14:35:00",
+      "CourtName": "RAC Arena",
+      "Round": {
+        "ShortName": "RR",
+        "LongName": "Round Robin Day null",
+        "RoundId": 10
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "A887",
+      "ResultString": "67(6) 26",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:48451",
+        "PlayerFirstName": "Y.",
+        "PlayerFirstNameFull": "Yvonne",
+        "PlayerLastName": "Cavalle-Reimers",
+        "PlayerCountryCode": "ESP",
+        "PartnerId": "sr:competitor:25021",
+        "PartnerFirstName": "I.",
+        "PartnerFirstNameFull": "Inigo",
+        "PartnerLastName": "Cervantes",
+        "PartnerCountryCode": "ESP",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6",
+            "TieBreakScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "2"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "A887",
+        "PlayerFirstName": "G.",
+        "PlayerFirstNameFull": "Guido",
+        "PlayerLastName": "Andreozzi",
+        "PlayerCountryCode": "ARG",
+        "PartnerId": "sr:competitor:141892",
+        "PartnerFirstName": "M.",
+        "PartnerFirstNameFull": "Maria",
+        "PartnerLastName": "Carle",
+        "PartnerCountryCode": "ARG",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "7",
+            "TieBreakScore": "8"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          }
+        ]
+      },
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "XDSR67324444",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-02T14:35:00",
+      "CourtName": "RAC Arena",
+      "Round": {
+        "ShortName": "RR",
+        "LongName": "Round Robin Day null",
+        "RoundId": 10
+      },
+      "NumberOfSets": 3,
+      "Status": "CA",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:405057",
+        "PlayerFirstName": "J.",
+        "PlayerFirstNameFull": "Jessica",
+        "PlayerLastName": "Bouzas Maneiro",
+        "PlayerCountryCode": "ESP",
+        "PartnerId": "sr:competitor:126356",
+        "PartnerFirstName": "J.",
+        "PartnerFirstNameFull": "Jaume",
+        "PartnerLastName": "Munar",
+        "PartnerCountryCode": "ESP"
+      },
+      "PlayerTeam2": {
+        "PlayerId": "A887",
+        "PlayerFirstName": "G.",
+        "PlayerFirstNameFull": "Guido",
+        "PlayerLastName": "Andreozzi",
+        "PlayerCountryCode": "ARG",
+        "PartnerId": "sr:competitor:141892",
+        "PartnerFirstName": "M.",
+        "PartnerFirstNameFull": "Maria",
+        "PartnerLastName": "Carle",
+        "PartnerCountryCode": "ARG"
+      },
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "XDSR67324446",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-02T21:00:00",
+      "CourtName": "RAC Arena",
+      "Round": {
+        "ShortName": "RR",
+        "LongName": "Round Robin Day null",
+        "RoundId": 10
+      },
+      "NumberOfSets": 3,
+      "Status": "CA",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:65950",
+        "PlayerFirstName": "M.",
+        "PlayerFirstNameFull": "Maria",
+        "PlayerLastName": "Sakkari",
+        "PlayerCountryCode": "GRE",
+        "PartnerId": "sr:competitor:122366",
+        "PartnerFirstName": "S.",
+        "PartnerFirstNameFull": "Stefanos",
+        "PartnerLastName": "Tsitsipas",
+        "PartnerCountryCode": "GRE"
+      },
+      "PlayerTeam2": {
+        "PlayerId": "M0HU",
+        "PlayerFirstName": "S.",
+        "PlayerFirstNameFull": "Shintaro",
+        "PlayerLastName": "Mochizuki",
+        "PlayerCountryCode": "JPN",
+        "PartnerId": "sr:competitor:66476",
+        "PartnerFirstName": "N.",
+        "PartnerFirstNameFull": "Naomi",
+        "PartnerLastName": "Osaka",
+        "PartnerCountryCode": "JPN"
+      },
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "XSSR66050952",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-03T10:00:00",
+      "CourtName": "RAC Arena",
+      "Round": {
+        "ShortName": "RR",
+        "LongName": "Round Robin Day null",
+        "RoundId": 10
+      },
+      "NumberOfSets": 3,
+      "Status": "CA",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:466689",
+        "PlayerFirstName": "L.",
+        "PlayerFirstNameFull": "Lois",
+        "PlayerLastName": "Boisson",
+        "PlayerCountryCode": "FRA"
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:63957",
+        "PlayerFirstName": "B.",
+        "PlayerFirstNameFull": "Belinda",
+        "PlayerLastName": "Bencic",
+        "PlayerCountryCode": "SUI"
+      },
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "XDSR67415768",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-06T00:00:00",
+      "CourtName": "RAC Arena",
+      "Round": {
+        "ShortName": "RR",
+        "LongName": "Round Robin Day null",
+        "RoundId": 10
+      },
+      "NumberOfSets": 3,
+      "Status": "CA",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:129714",
+        "PlayerFirstName": "O.",
+        "PlayerFirstNameFull": "Olivia",
+        "PlayerLastName": "Nicholls",
+        "PlayerCountryCode": "GBR",
+        "PartnerId": "sr:competitor:53785",
+        "PartnerFirstName": "N.",
+        "PartnerFirstNameFull": "Neal",
+        "PartnerLastName": "Skupski",
+        "PartnerCountryCode": "GBR"
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:65950",
+        "PlayerFirstName": "M.",
+        "PlayerFirstNameFull": "Maria",
+        "PlayerLastName": "Sakkari",
+        "PlayerCountryCode": "GRE",
+        "PartnerId": "sr:competitor:122366",
+        "PartnerFirstName": "S.",
+        "PartnerFirstNameFull": "Stefanos",
+        "PartnerLastName": "Tsitsipas",
+        "PartnerCountryCode": "GRE"
+      },
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "MatchId": "XDSR67472956",
+      "AssociationCode": "ATP",
+      "MatchDate": "2026-01-06T00:00:00",
+      "CourtName": "RAC Arena",
+      "Round": {
+        "ShortName": "RR",
+        "LongName": "Round Robin Day null",
+        "RoundId": 10
+      },
+      "NumberOfSets": 3,
+      "Status": "F",
+      "WinningPlayerId": "sr:competitor:129714",
+      "ResultString": "62 36 104",
+      "PlayerTeam1": {
+        "PlayerId": "sr:competitor:129714",
+        "PlayerFirstName": "O.",
+        "PlayerFirstNameFull": "Olivia",
+        "PlayerLastName": "Nicholls",
+        "PlayerCountryCode": "GBR",
+        "PartnerId": "sr:competitor:53785",
+        "PartnerFirstName": "N.",
+        "PartnerFirstNameFull": "Neal",
+        "PartnerLastName": "Skupski",
+        "PartnerCountryCode": "GBR",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "3"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "10"
+          }
+        ]
+      },
+      "PlayerTeam2": {
+        "PlayerId": "sr:competitor:45139",
+        "PlayerFirstName": "D.",
+        "PlayerFirstNameFull": "Despina",
+        "PlayerLastName": "Papamichail",
+        "PlayerCountryCode": "GRE",
+        "PartnerId": "sr:competitor:515478",
+        "PartnerFirstName": "S.",
+        "PartnerFirstNameFull": "Stefanos",
+        "PartnerLastName": "Sakellaridis",
+        "PartnerCountryCode": "GRE",
+        "Sets": [
+          {
+            "SetNumber": 1,
+            "SetScore": "2"
+          },
+          {
+            "SetNumber": 2,
+            "SetScore": "6"
+          },
+          {
+            "SetNumber": 3,
+            "SetScore": "4"
+          }
+        ]
+      },
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "C"
+    },
+    {
+      "CourtSeq": 1,
+      "MatchId": "MS131",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeISOTime": "10:00+0800",
+      "NotBeforeText": "Starts At",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "ESP",
+          "Players": [
+            {
+              "PlayerId": "MU94",
+              "OrderInTeam": 1,
+              "FirstName": "Jaume",
+              "LastName": "Munar",
+              "Country": "ESP",
+              "Seed": 10
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "ARG",
+          "Players": [
+            {
+              "PlayerId": "B0BI",
+              "OrderInTeam": 1,
+              "FirstName": "Sebastian",
+              "LastName": "Baez",
+              "Country": "ARG",
+              "Seed": 14
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -7,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-02T00:00:00",
+      "DateSeq": 1,
+      "CourtId": 2,
+      "CourtName": "RAC Arena",
+      "metadata": {
+        "description": "Welcome to the United Cup! Tune in to live streaming from Perth for the second career meeting between Argentina's Sebastian Baez and Jaume Munar of Spain."
+      }
+    },
+    {
+      "CourtSeq": 2,
+      "MatchId": "LS132",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeText": "Followed By",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "ESP",
+          "Players": [
+            {
+              "PlayerId": "328139",
+              "OrderInTeam": 1,
+              "FirstName": "Jessica",
+              "LastName": "Bouzas Maneiro",
+              "Country": "ESP",
+              "Seed": 10
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "ARG",
+          "Players": [
+            {
+              "PlayerId": "329081",
+              "OrderInTeam": 1,
+              "FirstName": "Solana",
+              "LastName": "Sierra",
+              "Country": "ARG",
+              "Seed": 14
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -7,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-02T00:00:00",
+      "DateSeq": 1,
+      "CourtId": 2,
+      "CourtName": "RAC Arena",
+      "metadata": {
+        "description": "It's all to play for now in Perth as Spain's Jessica Bouzas Maneiro comes up against Argentina's Solana Sierra in round-robin action."
+      }
+    },
+    {
+      "CourtSeq": 3,
+      "MatchId": "MX133",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeText": "Followed By",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "ESP",
+          "Players": [
+            {
+              "PlayerId": "316942",
+              "OrderInTeam": 1,
+              "FirstName": "Yvonne",
+              "LastName": "Cavalle-Reimers",
+              "Country": "ESP",
+              "Seed": 10
+            },
+            {
+              "PlayerId": "CA33",
+              "OrderInTeam": 2,
+              "FirstName": "Inigo",
+              "LastName": "Cervantes",
+              "Country": "ESP",
+              "Seed": 10
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "ARG",
+          "Players": [
+            {
+              "PlayerId": "322638",
+              "OrderInTeam": 1,
+              "FirstName": "Maria Lourdes",
+              "LastName": "Carle",
+              "Country": "ARG",
+              "Seed": 14
+            },
+            {
+              "PlayerId": "A887",
+              "OrderInTeam": 2,
+              "FirstName": "Guido",
+              "LastName": "Andreozzi",
+              "Country": "ARG",
+              "Seed": 14
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -7,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-02T00:00:00",
+      "DateSeq": 1,
+      "CourtId": 2,
+      "CourtName": "RAC Arena",
+      "metadata": {
+        "description": "Settle in for great doubles action from Perth as the Spain versus Argentina tie concludes - live on Tennis TV!"
+      }
+    },
+    {
+      "CourtSeq": 4,
+      "MatchId": "LS532",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeISOTime": "17:00+0800",
+      "NotBeforeText": "Not Before",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "GRE",
+          "Players": [
+            {
+              "PlayerId": "318312",
+              "OrderInTeam": 1,
+              "FirstName": "Maria",
+              "LastName": "Sakkari",
+              "Country": "GRE",
+              "Seed": 12
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "JPN",
+          "Players": [
+            {
+              "PlayerId": "319998",
+              "OrderInTeam": 1,
+              "FirstName": "Naomi",
+              "LastName": "Osaka",
+              "Country": "JPN",
+              "Seed": 13
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -7,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-02T00:00:00",
+      "DateSeq": 1,
+      "CourtId": 2,
+      "CourtName": "RAC Arena",
+      "metadata": {
+        "description": "Tune in live to this exciting clash from the United Cup as Maria Sakkari and Naomi Osaka get the Greece vs Japan tie underway!"
+      }
+    },
+    {
+      "CourtSeq": 5,
+      "MatchId": "MS531",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeText": "Followed By",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "GRE",
+          "Players": [
+            {
+              "PlayerId": "TE51",
+              "OrderInTeam": 1,
+              "FirstName": "Stefanos",
+              "LastName": "Tsitsipas",
+              "Country": "GRE",
+              "Seed": 12
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "JPN",
+          "Players": [
+            {
+              "PlayerId": "M0HU",
+              "OrderInTeam": 1,
+              "FirstName": "Shintaro",
+              "LastName": "Mochizuki",
+              "Country": "JPN",
+              "Seed": 13
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -7,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-02T00:00:00",
+      "DateSeq": 1,
+      "CourtId": 2,
+      "CourtName": "RAC Arena",
+      "metadata": {
+        "description": "Stefanos Tsitsipas will be hoping to get a crucial win for Greece now in Perth, but faces a tough test against Japan's Shintaro Mochizuki."
+      }
+    },
+    {
+      "CourtSeq": 1,
+      "MatchId": "LS332",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeISOTime": "10:00+0800",
+      "NotBeforeText": "Starts At",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "FRA",
+          "Players": [
+            {
+              "PlayerId": "320313",
+              "OrderInTeam": 1,
+              "FirstName": "Leolia",
+              "LastName": "Jeanjean",
+              "Country": "FRA",
+              "Seed": 8
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "SUI",
+          "Players": [
+            {
+              "PlayerId": "319001",
+              "OrderInTeam": 1,
+              "FirstName": "Belinda",
+              "LastName": "Bencic",
+              "Country": "SUI",
+              "Seed": 16
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -6,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-03T00:00:00",
+      "DateSeq": 2,
+      "CourtId": 2,
+      "CourtName": "RAC Arena",
+      "metadata": {
+        "description": "France take on Switzerland in this Group C encounter at the United Cup as Leolia Jeanjean faces Belinda Bencic - watch live streaming from Perth."
+      }
+    },
+    {
+      "CourtSeq": 1,
+      "MatchId": "LS232",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeISOTime": "10:30+1100",
+      "NotBeforeText": "Starts At",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "BEL",
+          "Players": [
+            {
+              "PlayerId": "317964",
+              "OrderInTeam": 1,
+              "FirstName": "Elise",
+              "LastName": "Mertens",
+              "Country": "BEL",
+              "Seed": 7
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "CHN",
+          "Players": [
+            {
+              "PlayerId": "317306",
+              "OrderInTeam": 1,
+              "FirstName": "Lin",
+              "LastName": "Zhu",
+              "Country": "CHN",
+              "Seed": 18
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -6,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-03T00:00:00",
+      "DateSeq": 2,
+      "CourtId": 1,
+      "CourtName": "Ken Rosewall Arena",
+      "metadata": {
+        "description": "Belgium and China get their Group B campaigns under way at the United Cup in Sydney where Elise Mertens takes on Zhu Lin - watch all the action live."
+      }
+    },
+    {
+      "CourtSeq": 4,
+      "MatchId": "MS121",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeISOTime": "17:00+0800",
+      "NotBeforeText": "Not Before",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "USA",
+          "Players": [
+            {
+              "PlayerId": "FB98",
+              "OrderInTeam": 1,
+              "FirstName": "Taylor",
+              "LastName": "Fritz",
+              "Country": "USA",
+              "Seed": 1
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "ARG",
+          "Players": [
+            {
+              "PlayerId": "B0BI",
+              "OrderInTeam": 1,
+              "FirstName": "Sebastian",
+              "LastName": "Baez",
+              "Country": "ARG",
+              "Seed": 14
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -6,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-03T00:00:00",
+      "DateSeq": 2,
+      "CourtId": 2,
+      "CourtName": "RAC Arena",
+      "metadata": {
+        "description": "Defending United Cup champions and two-time winners the United States begin their latest campaign as Taylor Fritz comes up against Argentine Sebastian Baez in this Group A clash - watch live from the RAC Arena in Perth."
+      }
+    },
+    {
+      "CourtSeq": 4,
+      "MatchId": "LS422",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeISOTime": "17:30+1100",
+      "NotBeforeText": "Not Before",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "AUS",
+          "Players": [
+            {
+              "PlayerId": "317810",
+              "OrderInTeam": 1,
+              "FirstName": "Storm",
+              "LastName": "Hunter",
+              "Country": "AUS",
+              "Seed": 4
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "NOR",
+          "Players": [
+            {
+              "PlayerId": "323055",
+              "OrderInTeam": 1,
+              "FirstName": "Malene",
+              "LastName": "Helgo",
+              "Country": "NOR",
+              "Seed": 17
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 10,
+      "Status": "Finished",
+      "RoundIdModernized": -6,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-03T00:00:00",
+      "DateSeq": 2,
+      "CourtId": 1,
+      "CourtName": "Ken Rosewall Arena",
+      "metadata": {
+        "description": "Local favourites Australia begin their United Cup campaign as Storm Hunter faces Norway's Malene Helgo on Ken Rosewall Arena - watch live streaming from Sydney."
+      }
+    },
+    {
+      "CourtSeq": 3,
+      "MatchId": "MX013",
+      "AssociationCode": "ATP",
+      "TournamentCode": "9900",
+      "NotBeforeText": "Followed By",
+      "IsNightSession": false,
+      "TeamsInMatch": [
+        {
+          "TeamNumber": 1,
+          "TeamCode": "POL",
+          "Players": [
+            {
+              "PlayerId": "315806",
+              "OrderInTeam": 1,
+              "FirstName": "Katarzyna",
+              "LastName": "Kawa",
+              "Country": "POL",
+              "Seed": 9
+            },
+            {
+              "PlayerId": "Z423",
+              "OrderInTeam": 2,
+              "FirstName": "Jan",
+              "LastName": "Zielinski",
+              "Country": "POL",
+              "Seed": 9
+            }
+          ],
+          "IsKnown": true
+        },
+        {
+          "TeamNumber": 2,
+          "TeamCode": "SUI",
+          "Players": [
+            {
+              "PlayerId": "319001",
+              "OrderInTeam": 1,
+              "FirstName": "Belinda",
+              "LastName": "Bencic",
+              "Country": "SUI",
+              "Seed": 16
+            },
+            {
+              "PlayerId": "P0D0",
+              "OrderInTeam": 2,
+              "FirstName": "Jakub",
+              "LastName": "Paul",
+              "Country": "SUI",
+              "Seed": 16
+            }
+          ],
+          "IsKnown": true
+        }
+      ],
+      "RoundId": 1,
+      "RoundIdModernized": 7,
+      "TournamentId": 9900,
+      "TournamentYear": 2026,
+      "PulseStatus": "U",
+      "MatchDate": "2026-01-11T00:00:00",
+      "DateSeq": 10,
+      "CourtId": 1,
+      "CourtName": "Ken Rosewall Arena",
+      "metadata": {
+        "description": "In what is the decisive mixed doubles encounter to clinched the United Cup, Poland’s Katarzyna Kawa and Jan Zielinski do battle against Belinda Bencic and Jakub Paul of Switzerland - watch every dramatic point on Tennis TV."
+      }
+    }
+  ]
+}

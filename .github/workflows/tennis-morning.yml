@@ -1,0 +1,87 @@
+# The daily, weekly and monthly reports.
+#
+# Target: 08:00 Europe/London, every day.
+#
+# GitHub Actions cron has NO timezone support — it is UTC only, with no `timezone:`
+# field in any current workflow syntax. So rather than hard-code a seasonal offset
+# (which would silently break twice a year), this fires at BOTH 07:00 and 08:00 UTC and
+# lets the application decide which one is actually 08:00 in London:
+#
+#   British Summer Time   07:00 UTC = 08:00 London  ← posts
+#                         08:00 UTC = 09:00 London  ← already sent, does nothing
+#   Greenwich Mean Time   07:00 UTC = 07:00 London  ← not due yet, does nothing
+#                         08:00 UTC = 08:00 London  ← posts
+#
+# The decision is made by Luxon against the IANA `Europe/London` zone, so the changeover
+# weekends need no special handling. Exactly one of the two runs posts, because the
+# report key (`daily:2026-09-29`) is claimed in D1 and can only be claimed once.
+#
+# This also means a missed run self-heals: if 07:00 UTC never happens, 08:00 UTC finds
+# the report still outstanding and sends it.
+
+name: Tennis morning reports
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Log Slack messages instead of sending them'
+        type: boolean
+        default: false
+        required: false
+
+permissions:
+  contents: read
+
+# Both scheduled runs use the same group, so the 08:00 UTC run queues behind the 07:00
+# one rather than racing it. The report key in D1 remains the real guarantee.
+concurrency:
+  group: tennis-morning
+  cancel-in-progress: false
+
+jobs:
+  morning:
+    runs-on: ubuntu-latest
+    # Longer than the monitor: a monthly report reads every tournament in the month.
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          # Only the current commit. There is no history to read, and a shallow clone
+          # is measurably faster on a job that runs this often.
+          fetch-depth: 1
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install production dependencies
+        run: npm ci --omit=dev --no-audit --no-fund
+
+      - name: Send any reports that are due
+        run: npm run bot:morning
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          INTERNAL_API_SECRET: ${{ secrets.INTERNAL_API_SECRET }}
+          SLACK_CHANNEL_ID: ${{ vars.SLACK_CHANNEL_ID }}
+          STATE_API_URL: ${{ vars.STATE_API_URL }}
+          APP_TIMEZONE: ${{ vars.APP_TIMEZONE }}
+          TENNISTV_BASE_URL: ${{ vars.TENNISTV_BASE_URL }}
+          SUMMARY_HOUR: ${{ vars.SUMMARY_HOUR }}
+          TENNISTV_API_BASE_URL: ${{ vars.TENNISTV_API_BASE_URL }}
+          TENNISTV_ACCOUNT_ID: ${{ vars.TENNISTV_ACCOUNT_ID }}
+          MONITOR_SCHEDULE_SLIP_MINUTES: ${{ vars.MONITOR_SCHEDULE_SLIP_MINUTES }}
+          STATE_RETENTION_DAYS: ${{ vars.STATE_RETENTION_DAYS }}
+          RUN_TIMEOUT_SECONDS: ${{ vars.RUN_TIMEOUT_SECONDS }}
+          LOG_LEVEL: ${{ vars.LOG_LEVEL }}
+          SLACK_DRY_RUN: ${{ inputs.dry_run }}
+          # TENNISTV_PROVIDER is deliberately NOT exposed as a repository variable.
+          # Production must always read the real site; a stray "fixture" would make the
+          # bot quietly report recorded data as though it were today's schedule.

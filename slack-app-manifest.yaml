@@ -1,0 +1,67 @@
+# Slack app manifest for the TTV Calendar Bot.
+#
+# Create the app from this file at https://api.slack.com/apps → "From an app manifest",
+# then see docs/SLACK_SETUP.md for the tokens and the channel invite.
+#
+# Two things about this manifest are deliberate:
+#
+#   * Interactivity is delivered over HTTPS to the Cloudflare Worker, NOT over Socket
+#     Mode. The bot must RECEIVE button clicks, which an incoming webhook cannot do;
+#     Socket Mode could, but it needs a permanently connected process, and there isn't
+#     one any more. The Worker is always reachable and costs nothing when idle.
+#     Consequence: no SLACK_APP_TOKEN in production.
+#
+#   * The scope list is as short as the features allow. Every scope here is used by
+#     code that exists; nothing is requested speculatively. Adding a scope later forces
+#     a workspace reinstall.
+
+display_information:
+  name: Tennis TV Calendar
+  description: Tells the QA team when Tennis TV has live tennis available for testing.
+  background_color: '#1c2b3a'
+  long_description: >-
+    Posts daily, weekly and monthly Tennis TV schedules to one configured channel, and
+    alerts opted-in testers when a match goes live, is delayed, or is cancelled. Times
+    are shown in UK local time; matches Tennis TV has not yet given a start time are
+    shown as "TBC" rather than guessed. Tournaments Tennis TV marks as not shown on its
+    platform are excluded. Tennis TV data access is used with Tennis TV's approval.
+
+features:
+  bot_user:
+    display_name: Tennis TV Calendar
+    # The bot posts on a schedule and reacts to buttons; it has no presence to keep.
+    always_online: false
+
+  # No slash commands. There is no permanently running process to answer one within
+  # Slack's three-second budget, and the Cloudflare Worker's job is deliberately limited
+  # to the two subscription buttons. Administration is done by running a GitHub Actions
+  # workflow manually instead.
+
+oauth_config:
+  scopes:
+    bot:
+      # Post summaries and alerts to the configured channel, and reply to a button
+      # click with chat.postEphemeral. Both use this one scope.
+      - chat:write
+
+      # Read recent history of the configured PUBLIC channel, so a retried send can
+      # check whether its earlier attempt actually landed before sending again
+      # (ARCHITECTURE.md §16.2).
+      #
+      # If the configured channel is PRIVATE, replace this with groups:history.
+      - channels:history
+
+settings:
+  # No event subscriptions: the bot does not read messages, does not respond to
+  # mentions, and does not need to know when anyone joins. Button clicks arrive as
+  # interactivity, not as events.
+  interactivity:
+    is_enabled: true
+    # The Cloudflare Worker's /slack/interactions endpoint. Replace <worker-domain>
+    # with the workers.dev host printed by `wrangler deploy`, e.g.
+    #   https://ttv-calendar-bot.example.workers.dev/slack/interactions
+    # Slack signs every request; the Worker verifies the signature before acting.
+    request_url: https://REPLACE_WITH_YOUR_WORKER_DOMAIN/slack/interactions
+  socket_mode_enabled: false
+  org_deploy_enabled: false
+  token_rotation_enabled: false

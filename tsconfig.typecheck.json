@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "rootDir": ".",
+    // Scripts and tests are never emitted, so extension rewriting is irrelevant here.
+    "rewriteRelativeImportExtensions": false
+  },
+  "include": ["src/**/*.ts", "test/**/*.ts", "scripts/**/*.ts", "vitest.config.ts"],
+  // Checked by tsconfig.worker.json instead: these tests run against the Workers
+  // runtime's types, which cannot coexist with Node's in one program.
+  "exclude": ["node_modules", "dist", "test/worker/**"]
+}

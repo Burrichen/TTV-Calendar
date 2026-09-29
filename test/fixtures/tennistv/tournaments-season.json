@@ -1,0 +1,5500 @@
+[
+  {
+    "id": 9900,
+    "year": 2026,
+    "name": "United Cup",
+    "gender": "JOINT",
+    "start": "2026-01-02",
+    "end": "2026-01-11",
+    "type": "UC",
+    "location": "Australia",
+    "surface": "Hard",
+    "info": {
+      "title": "United Cup",
+      "city": "Sydney",
+      "inOutdoor": "O",
+      "utcOffset": 10,
+      "mainStart": "2026-01-02",
+      "drawSizeSM": 18,
+      "drawSizeSQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-01-02"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-01-03"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-01-04"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-01-05"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-01-06"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-01-07"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-01-08"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-01-09"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-01-10"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-01-11"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/united-cup",
+      "matchesSize": "75",
+      "notShown": false
+    }
+  },
+  {
+    "id": 339,
+    "year": 2026,
+    "name": "Brisbane",
+    "gender": "ATP",
+    "start": "2026-01-04",
+    "qualificationStart": "2026-01-03",
+    "end": "2026-01-11",
+    "type": "250",
+    "location": "Australia",
+    "surface": "Hard",
+    "info": {
+      "title": "Brisbane International presented by ANZ",
+      "city": "Brisbane",
+      "inOutdoor": "O",
+      "utcOffset": 10,
+      "qualStart": "2026-01-03",
+      "mainStart": "2026-01-04",
+      "drawSizeSM": 32,
+      "drawSizeDM": 24,
+      "drawSizeSQ": 24,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-01-03"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-01-04"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-01-05"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-01-06"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-01-07"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-01-08"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-01-09"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-01-10"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-01-11"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/brisbane-international",
+      "matchesSize": "25"
+    }
+  },
+  {
+    "id": 336,
+    "year": 2026,
+    "name": "Hong Kong",
+    "gender": "ATP",
+    "start": "2026-01-05",
+    "qualificationStart": "2026-01-04",
+    "end": "2026-01-11",
+    "type": "250",
+    "location": "Hong Kong",
+    "surface": "Hard",
+    "info": {
+      "title": "Bank of China Hong Kong Tennis Open",
+      "city": "Hong Kong",
+      "inOutdoor": "O",
+      "utcOffset": 8,
+      "qualStart": "2026-01-04",
+      "mainStart": "2026-01-05",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-01-04"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-01-05"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-01-06"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-01-07"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-01-08"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-01-09"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-01-10"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-01-11"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/hong-kong-open",
+      "matchesSize": "26"
+    }
+  },
+  {
+    "id": 301,
+    "year": 2026,
+    "name": "Auckland",
+    "gender": "ATP",
+    "start": "2026-01-11",
+    "qualificationStart": "2026-01-09",
+    "end": "2026-01-17",
+    "type": "250",
+    "location": "New Zealand",
+    "surface": "Hard",
+    "info": {
+      "title": "ASB Classic",
+      "city": "Auckland",
+      "inOutdoor": "O",
+      "utcOffset": 12,
+      "qualStart": "2026-01-09",
+      "mainStart": "2026-01-11",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-01-10"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-01-11"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-01-12"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-01-13"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-01-14"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-01-15"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-01-16"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-01-17"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/asb-classic",
+      "matchesSize": "22"
+    }
+  },
+  {
+    "id": 8998,
+    "year": 2026,
+    "name": "Adelaide",
+    "gender": "ATP",
+    "start": "2026-01-12",
+    "qualificationStart": "2026-01-10",
+    "end": "2026-01-17",
+    "type": "250",
+    "location": "Australia",
+    "surface": "Hard",
+    "info": {
+      "title": "Adelaide International",
+      "city": "Adelaide",
+      "inOutdoor": "O",
+      "utcOffset": 9.3,
+      "qualStart": "2026-01-10",
+      "mainStart": "2026-01-12",
+      "drawSizeSM": 28,
+      "drawSizeDM": 24,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-01-10"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-01-11"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-01-12"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-01-13"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-01-14"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-01-15"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-01-16"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-01-17"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/adelaide-international",
+      "matchesSize": "26"
+    }
+  },
+  {
+    "id": 580,
+    "year": 2026,
+    "name": "Australian Open",
+    "gender": "JOINT",
+    "start": "2026-01-18",
+    "qualificationStart": "2026-01-12",
+    "end": "2026-02-01",
+    "type": "GS",
+    "location": "Australia",
+    "surface": "Hard",
+    "info": {
+      "title": "Australian Open",
+      "city": "Melbourne",
+      "inOutdoor": "O",
+      "utcOffset": 10,
+      "qualStart": "2026-01-12",
+      "mainStart": "2026-01-18",
+      "drawSizeSM": 128,
+      "drawSizeDM": 64,
+      "drawSizeSQ": 128,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-01-12"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-01-13"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "Q3",
+        "qualifying": true,
+        "isoDate": "2026-01-14"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "Q4",
+        "qualifying": true,
+        "isoDate": "2026-01-15"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-01-18"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-01-19"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-01-20"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-01-21"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-01-22"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-01-23"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-01-24"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-01-25"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-01-26"
+      },
+      {
+        "dateSeq": 14,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-01-27"
+      },
+      {
+        "dateSeq": 15,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-01-28"
+      },
+      {
+        "dateSeq": 16,
+        "dateLabel": "12",
+        "qualifying": false,
+        "isoDate": "2026-01-29"
+      },
+      {
+        "dateSeq": 17,
+        "dateLabel": "13",
+        "qualifying": false,
+        "isoDate": "2026-01-30"
+      },
+      {
+        "dateSeq": 18,
+        "dateLabel": "14",
+        "qualifying": false,
+        "isoDate": "2026-01-31"
+      },
+      {
+        "dateSeq": 19,
+        "dateLabel": "15",
+        "qualifying": false,
+        "isoDate": "2026-02-01"
+      }
+    ],
+    "metadata": {
+      "broadcastText": "Not Shown On Tennis TV",
+      "customRoute": "/tournaments/australian-open",
+      "notShown": true
+    }
+  },
+  {
+    "id": 375,
+    "year": 2026,
+    "name": "Montpellier",
+    "gender": "ATP",
+    "start": "2026-02-02",
+    "qualificationStart": "2026-02-01",
+    "end": "2026-02-08",
+    "type": "250",
+    "location": "France",
+    "surface": "Hard",
+    "info": {
+      "title": "Open Occitanie",
+      "city": "Montpellier",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2026-02-01",
+      "mainStart": "2026-02-02",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-01"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-02"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-03"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-04"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-05"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-06"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-07"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-02-08"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/atp-montpellier",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 407,
+    "year": 2026,
+    "name": "Rotterdam",
+    "gender": "ATP",
+    "start": "2026-02-09",
+    "qualificationStart": "2026-02-07",
+    "end": "2026-02-15",
+    "type": "500",
+    "location": "Netherlands",
+    "surface": "Hard",
+    "info": {
+      "title": "ABN AMRO Open",
+      "city": "Rotterdam",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2026-02-07",
+      "mainStart": "2026-02-09",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-07"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-08"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-09"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-10"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-11"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-12"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-13"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-14"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-02-15"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/atp-rotterdam",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 424,
+    "year": 2026,
+    "name": "Dallas",
+    "gender": "ATP",
+    "start": "2026-02-09",
+    "qualificationStart": "2026-02-07",
+    "end": "2026-02-15",
+    "type": "500",
+    "location": "TX, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Nexo Dallas Open",
+      "city": "Dallas",
+      "inOutdoor": "I",
+      "utcOffset": -6,
+      "qualStart": "2026-02-07",
+      "mainStart": "2026-02-09",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-07"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-08"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-09"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-10"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-11"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-12"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-13"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-14"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-02-15"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/dallas-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 506,
+    "year": 2026,
+    "name": "Buenos Aires",
+    "gender": "ATP",
+    "start": "2026-02-09",
+    "qualificationStart": "2026-02-07",
+    "end": "2026-02-15",
+    "type": "250",
+    "location": "Argentina",
+    "surface": "Clay",
+    "info": {
+      "title": "IEB+ Argentina Open",
+      "city": "Buenos Aires",
+      "inOutdoor": "O",
+      "utcOffset": -3,
+      "qualStart": "2026-02-07",
+      "mainStart": "2026-02-09",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-07"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-08"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-09"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-10"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-11"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-12"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-13"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-14"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-02-15"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/argentina-open",
+      "matchesSize": "19"
+    }
+  },
+  {
+    "id": 451,
+    "year": 2026,
+    "name": "Doha",
+    "gender": "ATP",
+    "start": "2026-02-16",
+    "qualificationStart": "2026-02-14",
+    "end": "2026-02-21",
+    "type": "500",
+    "location": "Qatar",
+    "surface": "Hard",
+    "info": {
+      "title": "Qatar ExxonMobil Open",
+      "city": "Doha",
+      "inOutdoor": "O",
+      "utcOffset": 3,
+      "qualStart": "2026-02-14",
+      "mainStart": "2026-02-16",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-14"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-15"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-16"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-17"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-18"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-19"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-20"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-21"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/qatar-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 499,
+    "year": 2026,
+    "name": "Delray Beach",
+    "gender": "ATP",
+    "start": "2026-02-16",
+    "qualificationStart": "2026-02-14",
+    "end": "2026-02-22",
+    "type": "250",
+    "location": "FL, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Delray Beach Open",
+      "city": "Delray Beach",
+      "inOutdoor": "O",
+      "utcOffset": -5,
+      "qualStart": "2026-02-14",
+      "mainStart": "2026-02-16",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-14"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-15"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-16"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-17"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-18"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-19"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-20"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-21"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-02-22"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/delray-beach-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 6932,
+    "year": 2026,
+    "name": "Rio de Janeiro",
+    "gender": "ATP",
+    "start": "2026-02-16",
+    "qualificationStart": "2026-02-14",
+    "end": "2026-02-22",
+    "type": "500",
+    "location": "Brazil",
+    "surface": "Clay",
+    "info": {
+      "title": "Rio Open presented by Claro",
+      "city": "Rio de Janeiro",
+      "inOutdoor": "O",
+      "utcOffset": -3,
+      "qualStart": "2026-02-14",
+      "mainStart": "2026-02-16",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-14"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-15"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-16"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-17"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-18"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-19"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-20"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-21"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-02-22"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/rio-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 495,
+    "year": 2026,
+    "name": "Dubai",
+    "gender": "ATP",
+    "start": "2026-02-23",
+    "qualificationStart": "2026-02-21",
+    "end": "2026-02-28",
+    "type": "500",
+    "location": "U.A.E.",
+    "surface": "Hard",
+    "info": {
+      "title": "Dubai Duty Free Tennis Championships",
+      "city": "Dubai",
+      "inOutdoor": "O",
+      "utcOffset": 4,
+      "qualStart": "2026-02-21",
+      "mainStart": "2026-02-23",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-21",
+        "isoUtcDate": "2026-02-21"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-22",
+        "isoUtcDate": "2026-02-22"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-23",
+        "isoUtcDate": "2026-02-23"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-24",
+        "isoUtcDate": "2026-02-24"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-25",
+        "isoUtcDate": "2026-02-25"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-26",
+        "isoUtcDate": "2026-02-26"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-27",
+        "isoUtcDate": "2026-02-27"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-28",
+        "isoUtcDate": "2026-02-28"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/dubai-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 8996,
+    "year": 2026,
+    "name": "Santiago",
+    "gender": "ATP",
+    "start": "2026-02-23",
+    "qualificationStart": "2026-02-21",
+    "end": "2026-03-01",
+    "type": "250",
+    "location": "Chile",
+    "surface": "Clay",
+    "info": {
+      "title": "BCI Seguros Chile Open",
+      "city": "Santiago",
+      "inOutdoor": "O",
+      "utcOffset": -4,
+      "qualStart": "2026-02-21",
+      "mainStart": "2026-02-23",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-21",
+        "isoUtcDate": "2026-02-21"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-22",
+        "isoUtcDate": "2026-02-22"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-23",
+        "isoUtcDate": "2026-02-23"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-24",
+        "isoUtcDate": "2026-02-24"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-25",
+        "isoUtcDate": "2026-02-25"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-26",
+        "isoUtcDate": "2026-02-26"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-27",
+        "isoUtcDate": "2026-02-27"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-28",
+        "isoUtcDate": "2026-02-28"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-03-01",
+        "isoUtcDate": "2026-03-01"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/chile-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 807,
+    "year": 2026,
+    "name": "Acapulco",
+    "gender": "ATP",
+    "start": "2026-02-24",
+    "qualificationStart": "2026-02-21",
+    "end": "2026-02-28",
+    "type": "500",
+    "location": "Mexico",
+    "surface": "Hard",
+    "info": {
+      "title": "Abierto Mexicano Telcel presentado por HSBC",
+      "city": "Acapulco",
+      "inOutdoor": "O",
+      "utcOffset": -6,
+      "qualStart": "2026-02-21",
+      "mainStart": "2026-02-24",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-02-21",
+        "isoUtcDate": "2026-02-21"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-02-22",
+        "isoUtcDate": "2026-02-23"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-02-23",
+        "isoUtcDate": "2026-02-24"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-02-24",
+        "isoUtcDate": "2026-02-25"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-02-25",
+        "isoUtcDate": "2026-02-26"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-02-26",
+        "isoUtcDate": "2026-02-27"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-02-27",
+        "isoUtcDate": "2026-02-28"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-02-28",
+        "isoUtcDate": "2026-03-01"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/acapulco-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 404,
+    "year": 2026,
+    "name": "ATP Masters 1000 Indian Wells",
+    "gender": "ATP",
+    "start": "2026-03-04",
+    "qualificationStart": "2026-03-02",
+    "end": "2026-03-15",
+    "type": "1000",
+    "location": "CA, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "BNP Paribas Open",
+      "city": "Indian Wells",
+      "inOutdoor": "O",
+      "utcOffset": -8,
+      "qualStart": "2026-03-02",
+      "mainStart": "2026-03-04",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 48,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-03-01"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-03-02",
+        "isoUtcDate": "2026-03-02"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "Q3",
+        "qualifying": true,
+        "isoDate": "2026-03-03",
+        "isoUtcDate": "2026-03-03"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-03-04",
+        "isoUtcDate": "2026-03-04"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-03-05",
+        "isoUtcDate": "2026-03-05"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-03-06",
+        "isoUtcDate": "2026-03-06"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-03-07",
+        "isoUtcDate": "2026-03-07"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-03-08",
+        "isoUtcDate": "2026-03-08"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-03-09",
+        "isoUtcDate": "2026-03-09"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-03-10",
+        "isoUtcDate": "2026-03-10"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-03-11",
+        "isoUtcDate": "2026-03-11"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-03-12",
+        "isoUtcDate": "2026-03-12"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-03-13",
+        "isoUtcDate": "2026-03-13"
+      },
+      {
+        "dateSeq": 14,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-03-14",
+        "isoUtcDate": "2026-03-14"
+      },
+      {
+        "dateSeq": 15,
+        "dateLabel": "12",
+        "qualifying": false,
+        "isoDate": "2026-03-15",
+        "isoUtcDate": "2026-03-15"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/indian-wells",
+      "matchesSize": "126"
+    }
+  },
+  {
+    "id": 403,
+    "year": 2026,
+    "name": "ATP Masters 1000 Miami",
+    "gender": "ATP",
+    "start": "2026-03-19",
+    "qualificationStart": "2026-03-16",
+    "end": "2026-03-29",
+    "type": "1000",
+    "location": "FL, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Miami Open presented by Itau",
+      "city": "Miami",
+      "inOutdoor": "O",
+      "utcOffset": -5,
+      "qualStart": "2026-03-16",
+      "mainStart": "2026-03-19",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 48,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-03-15"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-03-16",
+        "isoUtcDate": "2026-03-16"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "Q3",
+        "qualifying": true,
+        "isoDate": "2026-03-17",
+        "isoUtcDate": "2026-03-17"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "Q4",
+        "qualifying": true,
+        "isoDate": "2026-03-18"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-03-19",
+        "isoUtcDate": "2026-03-19"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-03-20",
+        "isoUtcDate": "2026-03-20"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-03-21",
+        "isoUtcDate": "2026-03-21"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-03-22",
+        "isoUtcDate": "2026-03-22"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-03-23",
+        "isoUtcDate": "2026-03-23"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-03-24",
+        "isoUtcDate": "2026-03-24"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-03-25",
+        "isoUtcDate": "2026-03-25"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-03-26",
+        "isoUtcDate": "2026-03-26"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-03-27",
+        "isoUtcDate": "2026-03-27"
+      },
+      {
+        "dateSeq": 14,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-03-28",
+        "isoUtcDate": "2026-03-28"
+      },
+      {
+        "dateSeq": 15,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-03-29",
+        "isoUtcDate": "2026-03-29"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/miami-open",
+      "matchesSize": "126"
+    }
+  },
+  {
+    "id": 360,
+    "year": 2026,
+    "name": "Marrakech",
+    "gender": "ATP",
+    "start": "2026-03-30",
+    "qualificationStart": "2026-03-29",
+    "end": "2026-04-05",
+    "type": "250",
+    "location": "Morocco",
+    "surface": "Clay",
+    "info": {
+      "title": "Grand Prix Hassan II",
+      "city": "Marrakech",
+      "inOutdoor": "O",
+      "utcOffset": 0,
+      "qualStart": "2026-03-29",
+      "mainStart": "2026-03-30",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-03-29",
+        "isoUtcDate": "2026-03-29"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-03-30",
+        "isoUtcDate": "2026-03-30"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-03-31",
+        "isoUtcDate": "2026-03-31"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-04-01",
+        "isoUtcDate": "2026-04-01"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-04-02",
+        "isoUtcDate": "2026-04-02"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-04-03",
+        "isoUtcDate": "2026-04-03"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-04-04",
+        "isoUtcDate": "2026-04-04"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-04-05",
+        "isoUtcDate": "2026-04-05"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/atp-marrakech",
+      "matchesSize": "21"
+    }
+  },
+  {
+    "id": 717,
+    "year": 2026,
+    "name": "Houston",
+    "gender": "ATP",
+    "start": "2026-03-30",
+    "qualificationStart": "2026-03-28",
+    "end": "2026-04-05",
+    "type": "250",
+    "location": "TX, U.S.A.",
+    "surface": "Clay",
+    "info": {
+      "title": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "city": "Houston",
+      "inOutdoor": "O",
+      "utcOffset": -6,
+      "qualStart": "2026-03-28",
+      "mainStart": "2026-03-30",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-03-28",
+        "isoUtcDate": "2026-03-28"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-03-29",
+        "isoUtcDate": "2026-03-29"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-03-30",
+        "isoUtcDate": "2026-03-30"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-03-31",
+        "isoUtcDate": "2026-03-31"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-04-01",
+        "isoUtcDate": "2026-04-01"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-04-02",
+        "isoUtcDate": "2026-04-02"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-04-03",
+        "isoUtcDate": "2026-04-03"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-04-04",
+        "isoUtcDate": "2026-04-04"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-04-05",
+        "isoUtcDate": "2026-04-05"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/atp-houston",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 4462,
+    "year": 2026,
+    "name": "Bucharest",
+    "gender": "ATP",
+    "start": "2026-03-31",
+    "qualificationStart": "2026-03-30",
+    "end": "2026-04-05",
+    "type": "250",
+    "location": "Romania",
+    "surface": "Clay",
+    "info": {
+      "title": "Tiriac Open presented by UniCredit Bank",
+      "city": "Bucharest",
+      "inOutdoor": "O",
+      "utcOffset": 2,
+      "qualStart": "2026-03-30",
+      "mainStart": "2026-03-31",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-03-29"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-03-30",
+        "isoUtcDate": "2026-03-30"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-03-31",
+        "isoUtcDate": "2026-03-31"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-04-01",
+        "isoUtcDate": "2026-04-01"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-04-02",
+        "isoUtcDate": "2026-04-02"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-04-03",
+        "isoUtcDate": "2026-04-03"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-04-04",
+        "isoUtcDate": "2026-04-04"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-04-05",
+        "isoUtcDate": "2026-04-05"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/atp-bucharest",
+      "matchesSize": "20"
+    }
+  },
+  {
+    "id": 410,
+    "year": 2026,
+    "name": "ATP Masters 1000 Monte-Carlo",
+    "gender": "ATP",
+    "start": "2026-04-05",
+    "qualificationStart": "2026-04-04",
+    "end": "2026-04-12",
+    "type": "1000",
+    "location": "Monaco",
+    "surface": "Clay",
+    "info": {
+      "title": "Rolex Monte-Carlo Masters",
+      "city": "Monte-Carlo",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-04-04",
+      "mainStart": "2026-04-05",
+      "drawSizeSM": 56,
+      "drawSizeDM": 28,
+      "drawSizeSQ": 28,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-04-04",
+        "isoUtcDate": "2026-04-04"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-04-05",
+        "isoUtcDate": "2026-04-05"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-04-06",
+        "isoUtcDate": "2026-04-06"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-04-07",
+        "isoUtcDate": "2026-04-07"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-04-08",
+        "isoUtcDate": "2026-04-08"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-04-09",
+        "isoUtcDate": "2026-04-09"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-04-10",
+        "isoUtcDate": "2026-04-10"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-04-11",
+        "isoUtcDate": "2026-04-11"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-04-12",
+        "isoUtcDate": "2026-04-12"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/monte-carlo-masters",
+      "matchesSize": "82"
+    }
+  },
+  {
+    "id": 308,
+    "year": 2026,
+    "name": "Munich",
+    "gender": "ATP",
+    "start": "2026-04-13",
+    "qualificationStart": "2026-04-11",
+    "end": "2026-04-19",
+    "type": "500",
+    "location": "Germany",
+    "surface": "Clay",
+    "info": {
+      "title": "BMW Open by Bitpanda",
+      "city": "Munich",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-04-11",
+      "mainStart": "2026-04-13",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-04-11",
+        "isoUtcDate": "2026-04-11"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-04-12",
+        "isoUtcDate": "2026-04-12"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-04-13",
+        "isoUtcDate": "2026-04-13"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-04-14",
+        "isoUtcDate": "2026-04-14"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-04-15",
+        "isoUtcDate": "2026-04-15"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-04-16",
+        "isoUtcDate": "2026-04-16"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-04-17",
+        "isoUtcDate": "2026-04-17"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-04-18",
+        "isoUtcDate": "2026-04-18"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-04-19",
+        "isoUtcDate": "2026-04-19"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/bmw-open-tennis",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 425,
+    "year": 2026,
+    "name": "Barcelona",
+    "gender": "ATP",
+    "start": "2026-04-13",
+    "qualificationStart": "2026-04-11",
+    "end": "2026-04-19",
+    "type": "500",
+    "location": "Spain",
+    "surface": "Clay",
+    "info": {
+      "title": "Barcelona Open Banc Sabadell",
+      "city": "Barcelona",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-04-11",
+      "mainStart": "2026-04-13",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 24,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-04-11",
+        "isoUtcDate": "2026-04-11"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-04-12",
+        "isoUtcDate": "2026-04-12"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-04-13",
+        "isoUtcDate": "2026-04-13"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-04-14",
+        "isoUtcDate": "2026-04-14"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-04-15",
+        "isoUtcDate": "2026-04-15"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-04-16",
+        "isoUtcDate": "2026-04-16"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-04-17",
+        "isoUtcDate": "2026-04-17"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-04-18",
+        "isoUtcDate": "2026-04-18"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-04-19",
+        "isoUtcDate": "2026-04-19"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/barcelona-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 1536,
+    "year": 2026,
+    "name": "ATP Masters 1000 Madrid",
+    "gender": "ATP",
+    "start": "2026-04-22",
+    "qualificationStart": "2026-04-20",
+    "end": "2026-05-03",
+    "type": "1000",
+    "location": "Spain",
+    "surface": "Clay",
+    "info": {
+      "title": "Mutua Madrid Open",
+      "city": "Madrid",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-04-20",
+      "mainStart": "2026-04-22",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 48,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-04-20",
+        "isoUtcDate": "2026-04-20"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-04-21",
+        "isoUtcDate": "2026-04-21"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-04-22",
+        "isoUtcDate": "2026-04-22"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-04-23",
+        "isoUtcDate": "2026-04-23"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-04-24",
+        "isoUtcDate": "2026-04-24"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-04-25",
+        "isoUtcDate": "2026-04-25"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-04-26",
+        "isoUtcDate": "2026-04-26"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-04-27",
+        "isoUtcDate": "2026-04-27"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-04-28",
+        "isoUtcDate": "2026-04-28"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-04-29",
+        "isoUtcDate": "2026-04-29"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-04-30",
+        "isoUtcDate": "2026-04-30"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-05-01",
+        "isoUtcDate": "2026-05-01"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-05-02",
+        "isoUtcDate": "2026-05-02"
+      },
+      {
+        "dateSeq": 14,
+        "dateLabel": "12",
+        "qualifying": false,
+        "isoDate": "2026-05-03",
+        "isoUtcDate": "2026-05-03"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/madrid-open",
+      "matchesSize": "126"
+    }
+  },
+  {
+    "id": 416,
+    "year": 2026,
+    "name": "ATP Masters 1000 Rome",
+    "gender": "ATP",
+    "start": "2026-05-06",
+    "qualificationStart": "2026-05-04",
+    "end": "2026-05-17",
+    "type": "1000",
+    "location": "Italy",
+    "surface": "Clay",
+    "info": {
+      "title": "Internazionali BNL d'Italia",
+      "city": "Rome",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-05-04",
+      "mainStart": "2026-05-06",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 48,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-05-04",
+        "isoUtcDate": "2026-05-04"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-05-05",
+        "isoUtcDate": "2026-05-05"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-05-06",
+        "isoUtcDate": "2026-05-06"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-05-07",
+        "isoUtcDate": "2026-05-07"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-05-08",
+        "isoUtcDate": "2026-05-08"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-05-09",
+        "isoUtcDate": "2026-05-09"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-05-10",
+        "isoUtcDate": "2026-05-10"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-05-11",
+        "isoUtcDate": "2026-05-11"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-05-12",
+        "isoUtcDate": "2026-05-12"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-05-13",
+        "isoUtcDate": "2026-05-13"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-05-14",
+        "isoUtcDate": "2026-05-14"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-05-15",
+        "isoUtcDate": "2026-05-15"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-05-16",
+        "isoUtcDate": "2026-05-16"
+      },
+      {
+        "dateSeq": 14,
+        "dateLabel": "12",
+        "qualifying": false,
+        "isoDate": "2026-05-17",
+        "isoUtcDate": "2026-05-17"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/italian-open",
+      "matchesSize": "126"
+    }
+  },
+  {
+    "id": 322,
+    "year": 2026,
+    "name": "Geneva",
+    "gender": "ATP",
+    "start": "2026-05-17",
+    "qualificationStart": "2026-05-16",
+    "end": "2026-05-23",
+    "type": "250",
+    "location": "Switzerland",
+    "surface": "Clay",
+    "info": {
+      "title": "Gonet Geneva Open",
+      "city": "Geneva",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-05-16",
+      "mainStart": "2026-05-17",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-05-16",
+        "isoUtcDate": "2026-05-16"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-05-17",
+        "isoUtcDate": "2026-05-17"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-05-18",
+        "isoUtcDate": "2026-05-18"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-05-19",
+        "isoUtcDate": "2026-05-19"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-05-20",
+        "isoUtcDate": "2026-05-20"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-05-21",
+        "isoUtcDate": "2026-05-21"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-05-22",
+        "isoUtcDate": "2026-05-22"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-05-23",
+        "isoUtcDate": "2026-05-23"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/geneva-open",
+      "matchesSize": "21"
+    }
+  },
+  {
+    "id": 414,
+    "year": 2026,
+    "name": "Hamburg",
+    "gender": "ATP",
+    "start": "2026-05-17",
+    "qualificationStart": "2026-05-16",
+    "end": "2026-05-23",
+    "type": "500",
+    "location": "Germany",
+    "surface": "Clay",
+    "info": {
+      "title": "Bitpanda Hamburg Open",
+      "city": "Hamburg",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-05-16",
+      "mainStart": "2026-05-17",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-05-16",
+        "isoUtcDate": "2026-05-16"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-05-17",
+        "isoUtcDate": "2026-05-17"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-05-18",
+        "isoUtcDate": "2026-05-18"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-05-19",
+        "isoUtcDate": "2026-05-19"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-05-20",
+        "isoUtcDate": "2026-05-20"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-05-21",
+        "isoUtcDate": "2026-05-21"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-05-22",
+        "isoUtcDate": "2026-05-22"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-05-23",
+        "isoUtcDate": "2026-05-23"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/hamburg-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 520,
+    "year": 2026,
+    "name": "French Open",
+    "gender": "JOINT",
+    "start": "2026-05-24",
+    "qualificationStart": "2026-05-18",
+    "end": "2026-06-07",
+    "type": "GS",
+    "location": "France",
+    "surface": "Clay",
+    "info": {
+      "title": "French Open",
+      "city": "Paris",
+      "inOutdoor": "O",
+      "utcOffset": 2,
+      "qualStart": "2026-05-18",
+      "mainStart": "2026-05-24",
+      "drawSizeSM": 128,
+      "drawSizeDM": 64,
+      "drawSizeSQ": 128,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-05-18",
+        "isoUtcDate": "2026-05-18"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-05-19",
+        "isoUtcDate": "2026-05-19"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "Q3",
+        "qualifying": true,
+        "isoDate": "2026-05-20",
+        "isoUtcDate": "2026-05-20"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "Q4",
+        "qualifying": true,
+        "isoDate": "2026-05-21",
+        "isoUtcDate": "2026-05-21"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "Q5",
+        "qualifying": true,
+        "isoDate": "2026-05-22",
+        "isoUtcDate": "2026-05-22"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-05-24",
+        "isoUtcDate": "2026-05-24"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-05-25",
+        "isoUtcDate": "2026-05-25"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-05-26",
+        "isoUtcDate": "2026-05-26"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-05-27",
+        "isoUtcDate": "2026-05-27"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-05-28",
+        "isoUtcDate": "2026-05-28"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-05-29",
+        "isoUtcDate": "2026-05-29"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-05-30",
+        "isoUtcDate": "2026-05-30"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-05-31",
+        "isoUtcDate": "2026-05-31"
+      },
+      {
+        "dateSeq": 14,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-06-01",
+        "isoUtcDate": "2026-06-01"
+      },
+      {
+        "dateSeq": 15,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-06-02",
+        "isoUtcDate": "2026-06-02"
+      },
+      {
+        "dateSeq": 16,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-06-03",
+        "isoUtcDate": "2026-06-03"
+      },
+      {
+        "dateSeq": 17,
+        "dateLabel": "12",
+        "qualifying": false,
+        "isoDate": "2026-06-04",
+        "isoUtcDate": "2026-06-04"
+      },
+      {
+        "dateSeq": 18,
+        "dateLabel": "13",
+        "qualifying": false,
+        "isoDate": "2026-06-05",
+        "isoUtcDate": "2026-06-05"
+      },
+      {
+        "dateSeq": 19,
+        "dateLabel": "14",
+        "qualifying": false,
+        "isoDate": "2026-06-06",
+        "isoUtcDate": "2026-06-06"
+      },
+      {
+        "dateSeq": 20,
+        "dateLabel": "15",
+        "qualifying": false,
+        "isoDate": "2026-06-07",
+        "isoUtcDate": "2026-06-07"
+      }
+    ],
+    "metadata": {
+      "broadcastText": "Not Shown On Tennis TV",
+      "customRoute": "/tournaments/roland-garros",
+      "notShown": true
+    }
+  },
+  {
+    "id": 321,
+    "year": 2026,
+    "name": "Stuttgart",
+    "gender": "ATP",
+    "start": "2026-06-08",
+    "qualificationStart": "2026-06-06",
+    "end": "2026-06-14",
+    "type": "250",
+    "location": "Germany",
+    "surface": "Grass",
+    "info": {
+      "title": "BOSS OPEN",
+      "city": "Stuttgart",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-06-06",
+      "mainStart": "2026-06-08",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-06-06",
+        "isoUtcDate": "2026-06-06"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-06-07",
+        "isoUtcDate": "2026-06-07"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-06-08",
+        "isoUtcDate": "2026-06-08"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-06-09",
+        "isoUtcDate": "2026-06-09"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-06-10",
+        "isoUtcDate": "2026-06-10"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-06-11",
+        "isoUtcDate": "2026-06-11"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-06-12",
+        "isoUtcDate": "2026-06-12"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-06-13",
+        "isoUtcDate": "2026-06-13"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-06-14",
+        "isoUtcDate": "2026-06-14"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/stuttgart-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 440,
+    "year": 2026,
+    "name": "'s-Hertogenbosch",
+    "gender": "ATP",
+    "start": "2026-06-08",
+    "qualificationStart": "2026-06-06",
+    "end": "2026-06-14",
+    "type": "250",
+    "location": "Netherlands",
+    "surface": "Grass",
+    "info": {
+      "title": "Libema Open",
+      "city": "'s-Hertogenbosch",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-06-06",
+      "mainStart": "2026-06-08",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-06-06",
+        "isoUtcDate": "2026-06-06"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-06-07",
+        "isoUtcDate": "2026-06-07"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-06-08",
+        "isoUtcDate": "2026-06-08"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-06-09",
+        "isoUtcDate": "2026-06-09"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-06-10",
+        "isoUtcDate": "2026-06-10"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-06-11",
+        "isoUtcDate": "2026-06-11"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-06-12",
+        "isoUtcDate": "2026-06-12"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-06-13",
+        "isoUtcDate": "2026-06-13"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-06-14",
+        "isoUtcDate": "2026-06-14"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/libema-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 500,
+    "year": 2026,
+    "name": "Halle",
+    "gender": "ATP",
+    "start": "2026-06-15",
+    "qualificationStart": "2026-06-13",
+    "end": "2026-06-21",
+    "type": "500",
+    "location": "Germany",
+    "surface": "Grass",
+    "info": {
+      "title": "Terra Wortmann Open",
+      "city": "Halle",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-06-13",
+      "mainStart": "2026-06-15",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-06-13",
+        "isoUtcDate": "2026-06-13"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-06-14",
+        "isoUtcDate": "2026-06-14"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-06-15",
+        "isoUtcDate": "2026-06-15"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-06-16",
+        "isoUtcDate": "2026-06-16"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-06-17",
+        "isoUtcDate": "2026-06-17"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-06-18",
+        "isoUtcDate": "2026-06-18"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-06-19",
+        "isoUtcDate": "2026-06-19"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-06-20",
+        "isoUtcDate": "2026-06-20"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-06-21",
+        "isoUtcDate": "2026-06-21"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/halle-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 311,
+    "year": 2026,
+    "name": "London / Queen's Club",
+    "gender": "ATP",
+    "start": "2026-06-15",
+    "qualificationStart": "2026-06-13",
+    "end": "2026-06-21",
+    "type": "500",
+    "location": "Great Britain",
+    "surface": "Grass",
+    "info": {
+      "title": "HSBC Championships",
+      "city": "London",
+      "inOutdoor": "O",
+      "utcOffset": 0,
+      "qualStart": "2026-06-13",
+      "mainStart": "2026-06-15",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-06-13",
+        "isoUtcDate": "2026-06-13"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-06-14",
+        "isoUtcDate": "2026-06-14"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-06-15",
+        "isoUtcDate": "2026-06-15"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-06-16",
+        "isoUtcDate": "2026-06-16"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-06-17",
+        "isoUtcDate": "2026-06-17"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-06-18",
+        "isoUtcDate": "2026-06-18"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-06-19",
+        "isoUtcDate": "2026-06-19"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-06-20",
+        "isoUtcDate": "2026-06-20"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-06-21",
+        "isoUtcDate": "2026-06-21"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/queens-club-championships",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 8994,
+    "year": 2026,
+    "name": "Mallorca",
+    "gender": "ATP",
+    "start": "2026-06-21",
+    "qualificationStart": "2026-06-20",
+    "end": "2026-06-27",
+    "type": "250",
+    "location": "Spain",
+    "surface": "Grass",
+    "info": {
+      "title": "Vanda Pharmaceuticals Mallorca Championships",
+      "city": "Mallorca",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-06-20",
+      "mainStart": "2026-06-21",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-06-20",
+        "isoUtcDate": "2026-06-20"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-06-21",
+        "isoUtcDate": "2026-06-21"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-06-22",
+        "isoUtcDate": "2026-06-22"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-06-23",
+        "isoUtcDate": "2026-06-23"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-06-24",
+        "isoUtcDate": "2026-06-24"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-06-25",
+        "isoUtcDate": "2026-06-25"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-06-26",
+        "isoUtcDate": "2026-06-26"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-06-27",
+        "isoUtcDate": "2026-06-27"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/mallorca-open",
+      "matchesSize": "22"
+    }
+  },
+  {
+    "id": 741,
+    "year": 2026,
+    "name": "Eastbourne",
+    "gender": "ATP",
+    "start": "2026-06-22",
+    "qualificationStart": "2026-06-20",
+    "end": "2026-06-28",
+    "type": "250",
+    "location": "Great Britain",
+    "surface": "Grass",
+    "info": {
+      "title": "Lexus Eastbourne Open",
+      "city": "Eastbourne",
+      "inOutdoor": "O",
+      "utcOffset": 0,
+      "qualStart": "2026-06-20",
+      "mainStart": "2026-06-22",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-06-20",
+        "isoUtcDate": "2026-06-20"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-06-21",
+        "isoUtcDate": "2026-06-21"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-06-22",
+        "isoUtcDate": "2026-06-22"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-06-23",
+        "isoUtcDate": "2026-06-23"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-06-24",
+        "isoUtcDate": "2026-06-24"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-06-25",
+        "isoUtcDate": "2026-06-25"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-06-26",
+        "isoUtcDate": "2026-06-26"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-06-27"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-06-28",
+        "isoUtcDate": "2026-06-28"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/atp-eastbourne",
+      "matchesSize": "20"
+    }
+  },
+  {
+    "id": 540,
+    "year": 2026,
+    "name": "Wimbledon",
+    "gender": "JOINT",
+    "start": "2026-06-29",
+    "qualificationStart": "2026-06-22",
+    "end": "2026-07-12",
+    "type": "GS",
+    "location": "England",
+    "surface": "Grass",
+    "info": {
+      "title": "Wimbledon",
+      "city": "London",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-06-22",
+      "mainStart": "2026-06-29",
+      "drawSizeSM": 128,
+      "drawSizeDM": 64,
+      "drawSizeSQ": 128,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-06-22",
+        "isoUtcDate": "2026-06-22"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-06-23",
+        "isoUtcDate": "2026-06-23"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "Q3",
+        "qualifying": true,
+        "isoDate": "2026-06-24",
+        "isoUtcDate": "2026-06-24"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "Q4",
+        "qualifying": true,
+        "isoDate": "2026-06-25",
+        "isoUtcDate": "2026-06-25"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-06-29",
+        "isoUtcDate": "2026-06-29"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-06-30",
+        "isoUtcDate": "2026-06-30"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-07-01",
+        "isoUtcDate": "2026-07-01"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-07-02",
+        "isoUtcDate": "2026-07-02"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-07-03",
+        "isoUtcDate": "2026-07-03"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-07-04",
+        "isoUtcDate": "2026-07-04"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-07-05",
+        "isoUtcDate": "2026-07-05"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-07-06",
+        "isoUtcDate": "2026-07-06"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-07-07",
+        "isoUtcDate": "2026-07-07"
+      },
+      {
+        "dateSeq": 14,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-07-08",
+        "isoUtcDate": "2026-07-08"
+      },
+      {
+        "dateSeq": 15,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-07-09",
+        "isoUtcDate": "2026-07-09"
+      },
+      {
+        "dateSeq": 16,
+        "dateLabel": "12",
+        "qualifying": false,
+        "isoDate": "2026-07-10",
+        "isoUtcDate": "2026-07-10"
+      },
+      {
+        "dateSeq": 17,
+        "dateLabel": "13",
+        "qualifying": false,
+        "isoDate": "2026-07-11",
+        "isoUtcDate": "2026-07-11"
+      },
+      {
+        "dateSeq": 18,
+        "dateLabel": "14",
+        "qualifying": false,
+        "isoDate": "2026-07-12",
+        "isoUtcDate": "2026-07-12"
+      }
+    ],
+    "metadata": {
+      "broadcastText": "Not Shown On Tennis TV",
+      "customRoute": "/tournaments/wimbledon",
+      "notShown": true
+    }
+  },
+  {
+    "id": 439,
+    "year": 2026,
+    "name": "Umag",
+    "gender": "ATP",
+    "start": "2026-07-13",
+    "qualificationStart": "2026-07-11",
+    "end": "2026-07-18",
+    "type": "250",
+    "location": "Croatia",
+    "surface": "Clay",
+    "info": {
+      "title": "Plava Laguna Croatia Open Umag",
+      "city": "Umag",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-07-11",
+      "mainStart": "2026-07-13",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-07-11",
+        "isoUtcDate": "2026-07-11"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-07-12",
+        "isoUtcDate": "2026-07-12"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-07-13",
+        "isoUtcDate": "2026-07-13"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-07-14",
+        "isoUtcDate": "2026-07-14"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-07-15",
+        "isoUtcDate": "2026-07-15"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-07-16",
+        "isoUtcDate": "2026-07-16"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-07-17",
+        "isoUtcDate": "2026-07-17"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-07-18",
+        "isoUtcDate": "2026-07-18"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/atp-umag",
+      "matchesSize": "18"
+    }
+  },
+  {
+    "id": 314,
+    "year": 2026,
+    "name": "Gstaad",
+    "gender": "ATP",
+    "start": "2026-07-13",
+    "qualificationStart": "2026-07-11",
+    "end": "2026-07-19",
+    "type": "250",
+    "location": "Switzerland",
+    "surface": "Clay",
+    "info": {
+      "title": "EFG Swiss Open Gstaad",
+      "city": "Gstaad",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-07-11",
+      "mainStart": "2026-07-13",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-07-11",
+        "isoUtcDate": "2026-07-11"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-07-12",
+        "isoUtcDate": "2026-07-12"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-07-13",
+        "isoUtcDate": "2026-07-13"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-07-14",
+        "isoUtcDate": "2026-07-14"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-07-15",
+        "isoUtcDate": "2026-07-15"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-07-16",
+        "isoUtcDate": "2026-07-16"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-07-17",
+        "isoUtcDate": "2026-07-17"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-07-18",
+        "isoUtcDate": "2026-07-18"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-07-19",
+        "isoUtcDate": "2026-07-19"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/gstaad-open",
+      "matchesSize": "22"
+    }
+  },
+  {
+    "id": 316,
+    "year": 2026,
+    "name": "Bastad",
+    "gender": "ATP",
+    "start": "2026-07-14",
+    "qualificationStart": "2026-07-12",
+    "end": "2026-07-19",
+    "type": "250",
+    "location": "Sweden",
+    "surface": "Clay",
+    "info": {
+      "title": "Nordea Open",
+      "city": "Bastad",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-07-12",
+      "mainStart": "2026-07-14",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-07-12",
+        "isoUtcDate": "2026-07-12"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-07-13",
+        "isoUtcDate": "2026-07-13"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-07-14",
+        "isoUtcDate": "2026-07-14"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-07-15",
+        "isoUtcDate": "2026-07-15"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-07-16",
+        "isoUtcDate": "2026-07-16"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-07-17",
+        "isoUtcDate": "2026-07-17"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-07-18",
+        "isoUtcDate": "2026-07-18"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-07-19",
+        "isoUtcDate": "2026-07-19"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/nordea-open",
+      "matchesSize": "21"
+    }
+  },
+  {
+    "id": 319,
+    "year": 2026,
+    "name": "Kitzbuhel",
+    "gender": "ATP",
+    "start": "2026-07-20",
+    "qualificationStart": "2026-07-18",
+    "end": "2026-07-25",
+    "type": "250",
+    "location": "Austria",
+    "surface": "Clay",
+    "info": {
+      "title": "Generali Open",
+      "city": "Kitzbuhel",
+      "inOutdoor": "O",
+      "utcOffset": 1,
+      "qualStart": "2026-07-18",
+      "mainStart": "2026-07-20",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-07-18",
+        "isoUtcDate": "2026-07-18"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-07-19",
+        "isoUtcDate": "2026-07-19"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-07-20",
+        "isoUtcDate": "2026-07-20"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-07-21",
+        "isoUtcDate": "2026-07-21"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-07-22",
+        "isoUtcDate": "2026-07-22"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-07-23",
+        "isoUtcDate": "2026-07-23"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-07-24",
+        "isoUtcDate": "2026-07-24"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-07-25",
+        "isoUtcDate": "2026-07-25"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/atp-kitzbuhel",
+      "matchesSize": "19"
+    }
+  },
+  {
+    "id": 7290,
+    "year": 2026,
+    "name": "Estoril",
+    "gender": "ATP",
+    "start": "2026-07-20",
+    "qualificationStart": "2026-07-18",
+    "end": "2026-07-26",
+    "type": "250",
+    "location": "Portugal",
+    "surface": "Clay",
+    "info": {
+      "title": "Millennium Estoril Open",
+      "city": "Estoril",
+      "inOutdoor": "O",
+      "utcOffset": 0,
+      "qualStart": "2026-07-18",
+      "mainStart": "2026-07-20",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-07-18",
+        "isoUtcDate": "2026-07-18"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-07-19",
+        "isoUtcDate": "2026-07-19"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-07-20",
+        "isoUtcDate": "2026-07-20"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-07-21",
+        "isoUtcDate": "2026-07-21"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-07-22",
+        "isoUtcDate": "2026-07-22"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-07-23",
+        "isoUtcDate": "2026-07-23"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-07-24",
+        "isoUtcDate": "2026-07-24"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-07-25",
+        "isoUtcDate": "2026-07-25"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-07-26",
+        "isoUtcDate": "2026-07-26"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/estoril-open",
+      "matchesSize": "22"
+    }
+  },
+  {
+    "id": 418,
+    "year": 2026,
+    "name": "Washington",
+    "gender": "ATP",
+    "start": "2026-07-27",
+    "qualificationStart": "2026-07-25",
+    "end": "2026-08-03",
+    "type": "500",
+    "location": "DC, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Mubadala DC Open",
+      "city": "Washington",
+      "inOutdoor": "O",
+      "utcOffset": -5,
+      "qualStart": "2026-07-25",
+      "mainStart": "2026-07-27",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 24,
+      "drawSizeDQ": 4
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-07-25",
+        "isoUtcDate": "2026-07-25"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-07-26",
+        "isoUtcDate": "2026-07-26"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-07-27",
+        "isoUtcDate": "2026-07-27"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-07-28",
+        "isoUtcDate": "2026-07-28"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-07-29",
+        "isoUtcDate": "2026-07-29"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-07-30",
+        "isoUtcDate": "2026-07-30"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-07-31",
+        "isoUtcDate": "2026-07-31"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-08-01",
+        "isoUtcDate": "2026-08-01"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-08-02",
+        "isoUtcDate": "2026-08-02"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-08-03",
+        "isoUtcDate": "2026-08-03"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/washington-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 7480,
+    "year": 2026,
+    "name": "Los Cabos",
+    "gender": "ATP",
+    "start": "2026-07-28",
+    "qualificationStart": "2026-07-26",
+    "end": "2026-08-01",
+    "type": "250",
+    "location": "Mexico",
+    "surface": "Hard",
+    "info": {
+      "title": "Mifel Tennis Open by Telcel Oppo",
+      "city": "Los Cabos",
+      "inOutdoor": "O",
+      "utcOffset": -7,
+      "qualStart": "2026-07-26",
+      "mainStart": "2026-07-28",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-07-25",
+        "isoUtcDate": "2026-07-26"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-07-26",
+        "isoUtcDate": "2026-07-27"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-07-27",
+        "isoUtcDate": "2026-07-28"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-07-28",
+        "isoUtcDate": "2026-07-29"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-07-29",
+        "isoUtcDate": "2026-07-30"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-07-30",
+        "isoUtcDate": "2026-07-31"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-07-31",
+        "isoUtcDate": "2026-08-01"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-08-01",
+        "isoUtcDate": "2026-08-02"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/los-cabos-open",
+      "matchesSize": "16"
+    }
+  },
+  {
+    "id": 421,
+    "year": 2026,
+    "name": "ATP Masters 1000 Canada",
+    "gender": "ATP",
+    "start": "2026-08-02",
+    "qualificationStart": "2026-08-01",
+    "end": "2026-08-13",
+    "type": "1000",
+    "location": "Canada",
+    "surface": "Hard",
+    "info": {
+      "title": "Omnium Banque Nationale présenté par Rogers",
+      "city": "Montreal",
+      "inOutdoor": "O",
+      "utcOffset": -5,
+      "qualStart": "2026-08-01",
+      "mainStart": "2026-08-02",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 32,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-08-01",
+        "isoUtcDate": "2026-08-01"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-08-02",
+        "isoUtcDate": "2026-08-02"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-08-03",
+        "isoUtcDate": "2026-08-03"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-08-04",
+        "isoUtcDate": "2026-08-04"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-08-05",
+        "isoUtcDate": "2026-08-05"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-08-06",
+        "isoUtcDate": "2026-08-06"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-08-07",
+        "isoUtcDate": "2026-08-07"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-08-08",
+        "isoUtcDate": "2026-08-08"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-08-09",
+        "isoUtcDate": "2026-08-09"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-08-10",
+        "isoUtcDate": "2026-08-10"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-08-11",
+        "isoUtcDate": "2026-08-11"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-08-12",
+        "isoUtcDate": "2026-08-12"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "12",
+        "qualifying": false,
+        "isoDate": "2026-08-13",
+        "isoUtcDate": "2026-08-13"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/national-bank-open",
+      "matchesSize": "126"
+    }
+  },
+  {
+    "id": 422,
+    "year": 2026,
+    "name": "ATP Masters 1000 Cincinnati",
+    "gender": "ATP",
+    "start": "2026-08-13",
+    "qualificationStart": "2026-08-11",
+    "end": "2026-08-23",
+    "type": "1000",
+    "location": "OH, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Cincinnati Open",
+      "city": "Cincinnati",
+      "inOutdoor": "O",
+      "utcOffset": -5,
+      "qualStart": "2026-08-11",
+      "mainStart": "2026-08-13",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 48,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-08-11",
+        "isoUtcDate": "2026-08-11"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-08-12",
+        "isoUtcDate": "2026-08-12"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-08-13",
+        "isoUtcDate": "2026-08-13"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-08-14",
+        "isoUtcDate": "2026-08-14"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-08-15",
+        "isoUtcDate": "2026-08-15"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-08-16",
+        "isoUtcDate": "2026-08-16"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-08-17",
+        "isoUtcDate": "2026-08-17"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-08-18",
+        "isoUtcDate": "2026-08-18"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-08-19",
+        "isoUtcDate": "2026-08-19"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-08-20",
+        "isoUtcDate": "2026-08-20"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-08-21",
+        "isoUtcDate": "2026-08-21"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-08-22",
+        "isoUtcDate": "2026-08-22"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-08-23",
+        "isoUtcDate": "2026-08-23"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/cincinnati-open",
+      "matchesSize": "126"
+    }
+  },
+  {
+    "id": 6242,
+    "year": 2026,
+    "name": "Winston-Salem",
+    "gender": "ATP",
+    "start": "2026-08-23",
+    "qualificationStart": "2026-08-22",
+    "end": "2026-08-29",
+    "type": "250",
+    "location": "NC, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Winston-Salem Open",
+      "city": "Winston-Salem",
+      "inOutdoor": "O",
+      "utcOffset": -5,
+      "qualStart": "2026-08-22",
+      "mainStart": "2026-08-23",
+      "drawSizeSM": 48,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-08-22",
+        "isoUtcDate": "2026-08-22"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-08-23",
+        "isoUtcDate": "2026-08-23"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-08-24",
+        "isoUtcDate": "2026-08-24"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-08-25",
+        "isoUtcDate": "2026-08-25"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-08-26",
+        "isoUtcDate": "2026-08-26"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-08-27",
+        "isoUtcDate": "2026-08-27"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-08-28",
+        "isoUtcDate": "2026-08-28"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-08-29",
+        "isoUtcDate": "2026-08-29"
+      }
+    ],
+    "metadata": {
+      "customRoute": "/tournaments/winston-salem-open",
+      "matchesSize": "22"
+    }
+  },
+  {
+    "id": 560,
+    "year": 2026,
+    "name": "US Open",
+    "gender": "JOINT",
+    "start": "2026-08-30",
+    "qualificationStart": "2026-08-23",
+    "end": "2026-09-13",
+    "type": "GS",
+    "location": "Usa",
+    "surface": "Hard",
+    "info": {
+      "title": "US Open",
+      "city": "New York, NY",
+      "inOutdoor": "O",
+      "utcOffset": -4,
+      "qualStart": "2026-08-23",
+      "mainStart": "2026-08-30",
+      "drawSizeSM": 128,
+      "drawSizeDM": 64,
+      "drawSizeSQ": 128,
+      "drawSizeDQ": 0
+    },
+    "availableOopDays": [
+      {
+        "dateSeq": 1,
+        "dateLabel": "Q1",
+        "qualifying": true,
+        "isoDate": "2026-08-24",
+        "isoUtcDate": "2026-08-24"
+      },
+      {
+        "dateSeq": 2,
+        "dateLabel": "Q2",
+        "qualifying": true,
+        "isoDate": "2026-08-25",
+        "isoUtcDate": "2026-08-25"
+      },
+      {
+        "dateSeq": 3,
+        "dateLabel": "Q3",
+        "qualifying": true,
+        "isoDate": "2026-08-26",
+        "isoUtcDate": "2026-08-26"
+      },
+      {
+        "dateSeq": 4,
+        "dateLabel": "Q4",
+        "qualifying": true,
+        "isoDate": "2026-08-27",
+        "isoUtcDate": "2026-08-27"
+      },
+      {
+        "dateSeq": 5,
+        "dateLabel": "Q5",
+        "qualifying": true,
+        "isoDate": "2026-08-28",
+        "isoUtcDate": "2026-08-28"
+      },
+      {
+        "dateSeq": 6,
+        "dateLabel": "1",
+        "qualifying": false,
+        "isoDate": "2026-08-30",
+        "isoUtcDate": "2026-08-30"
+      },
+      {
+        "dateSeq": 7,
+        "dateLabel": "2",
+        "qualifying": false,
+        "isoDate": "2026-08-31",
+        "isoUtcDate": "2026-08-31"
+      },
+      {
+        "dateSeq": 8,
+        "dateLabel": "3",
+        "qualifying": false,
+        "isoDate": "2026-09-01",
+        "isoUtcDate": "2026-09-01"
+      },
+      {
+        "dateSeq": 9,
+        "dateLabel": "4",
+        "qualifying": false,
+        "isoDate": "2026-09-02",
+        "isoUtcDate": "2026-09-02"
+      },
+      {
+        "dateSeq": 10,
+        "dateLabel": "5",
+        "qualifying": false,
+        "isoDate": "2026-09-03",
+        "isoUtcDate": "2026-09-03"
+      },
+      {
+        "dateSeq": 11,
+        "dateLabel": "6",
+        "qualifying": false,
+        "isoDate": "2026-09-04",
+        "isoUtcDate": "2026-09-04"
+      },
+      {
+        "dateSeq": 12,
+        "dateLabel": "7",
+        "qualifying": false,
+        "isoDate": "2026-09-05",
+        "isoUtcDate": "2026-09-05"
+      },
+      {
+        "dateSeq": 13,
+        "dateLabel": "8",
+        "qualifying": false,
+        "isoDate": "2026-09-06",
+        "isoUtcDate": "2026-09-06"
+      },
+      {
+        "dateSeq": 14,
+        "dateLabel": "9",
+        "qualifying": false,
+        "isoDate": "2026-09-07",
+        "isoUtcDate": "2026-09-07"
+      },
+      {
+        "dateSeq": 15,
+        "dateLabel": "10",
+        "qualifying": false,
+        "isoDate": "2026-09-08",
+        "isoUtcDate": "2026-09-08"
+      },
+      {
+        "dateSeq": 16,
+        "dateLabel": "11",
+        "qualifying": false,
+        "isoDate": "2026-09-09",
+        "isoUtcDate": "2026-09-09"
+      },
+      {
+        "dateSeq": 17,
+        "dateLabel": "12",
+        "qualifying": false,
+        "isoDate": "2026-09-10",
+        "isoUtcDate": "2026-09-10"
+      },
+      {
+        "dateSeq": 18,
+        "dateLabel": "13",
+        "qualifying": false,
+        "isoDate": "2026-09-11",
+        "isoUtcDate": "2026-09-11"
+      },
+      {
+        "dateSeq": 19,
+        "dateLabel": "14",
+        "qualifying": false,
+        "isoDate": "2026-09-12",
+        "isoUtcDate": "2026-09-12"
+      },
+      {
+        "dateSeq": 20,
+        "dateLabel": "15",
+        "qualifying": false,
+        "isoDate": "2026-09-13",
+        "isoUtcDate": "2026-09-13"
+      }
+    ],
+    "metadata": {
+      "broadcastText": "Not Shown On Tennis TV",
+      "customRoute": "/tournaments/US-open-tennis",
+      "notShown": true
+    }
+  },
+  {
+    "id": 4713,
+    "year": 2026,
+    "name": "Hangzhou",
+    "gender": "ATP",
+    "start": "2026-09-23",
+    "qualificationStart": "2026-09-22",
+    "end": "2026-09-29",
+    "type": "250",
+    "location": "China",
+    "surface": "Hard",
+    "info": {
+      "title": "Hangzhou Open",
+      "city": "Hangzhou",
+      "inOutdoor": "O",
+      "utcOffset": 8,
+      "qualStart": "2026-09-22",
+      "mainStart": "2026-09-23",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/hangzhou-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 7581,
+    "year": 2026,
+    "name": "Chengdu",
+    "gender": "ATP",
+    "start": "2026-09-23",
+    "qualificationStart": "2026-09-22",
+    "end": "2026-09-29",
+    "type": "250",
+    "location": "China",
+    "surface": "Hard",
+    "info": {
+      "title": "Chengdu Open",
+      "city": "Chengdu",
+      "inOutdoor": "O",
+      "utcOffset": 8,
+      "qualStart": "2026-09-22",
+      "mainStart": "2026-09-23",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/chengdu-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 9210,
+    "year": 2026,
+    "name": "Laver Cup",
+    "gender": "ATP",
+    "start": "2026-09-25",
+    "end": "2026-09-27",
+    "type": "LVR",
+    "location": "Great Britain",
+    "surface": "Hard",
+    "info": {
+      "title": "Laver Cup",
+      "city": "London",
+      "inOutdoor": "I",
+      "utcOffset": 0,
+      "mainStart": "2026-09-25",
+      "drawSizeSM": 12,
+      "drawSizeDM": 12,
+      "drawSizeSQ": 0,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "broadcastText": "Not Shown On Tennis TV",
+      "customRoute": "/tournaments/laver-cup",
+      "notShown": true
+    }
+  },
+  {
+    "id": 329,
+    "year": 2026,
+    "name": "Tokyo",
+    "gender": "ATP",
+    "start": "2026-09-30",
+    "qualificationStart": "2026-09-28",
+    "end": "2026-10-06",
+    "type": "500",
+    "location": "Japan",
+    "surface": "Hard",
+    "info": {
+      "title": "Kinoshita Group Japan Open Tennis Championships",
+      "city": "Tokyo",
+      "inOutdoor": "O",
+      "utcOffset": 9,
+      "qualStart": "2026-09-28",
+      "mainStart": "2026-09-30",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "metadata": {
+      "customRoute": "/tournaments/japan-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 747,
+    "year": 2026,
+    "name": "Beijing",
+    "gender": "ATP",
+    "start": "2026-09-30",
+    "qualificationStart": "2026-09-28",
+    "end": "2026-10-06",
+    "type": "500",
+    "location": "China",
+    "surface": "Hard",
+    "info": {
+      "title": "China Open",
+      "city": "Beijing",
+      "inOutdoor": "O",
+      "utcOffset": 8,
+      "qualStart": "2026-09-28",
+      "mainStart": "2026-09-30",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "metadata": {
+      "customRoute": "/tournaments/china-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 5014,
+    "year": 2026,
+    "name": "ATP Masters 1000 Shanghai",
+    "gender": "ATP",
+    "start": "2026-10-07",
+    "qualificationStart": "2026-10-05",
+    "end": "2026-10-18",
+    "type": "1000",
+    "location": "China",
+    "surface": "Hard",
+    "info": {
+      "title": "Rolex Shanghai Masters",
+      "city": "Shanghai",
+      "inOutdoor": "O",
+      "utcOffset": 8,
+      "qualStart": "2026-10-05",
+      "mainStart": "2026-10-07",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 48,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/shanghai-open",
+      "matchesSize": "126"
+    }
+  },
+  {
+    "id": 496,
+    "year": 2026,
+    "name": "Lyon",
+    "gender": "ATP",
+    "start": "2026-10-19",
+    "qualificationStart": "2026-10-18",
+    "end": "2026-10-25",
+    "type": "250",
+    "location": "France",
+    "surface": "Hard",
+    "info": {
+      "title": "Grand Prix Auvergne-Rhone-Alpes",
+      "city": "Lyon",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2026-10-18",
+      "mainStart": "2026-10-19",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/lyon-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 7485,
+    "year": 2026,
+    "name": "Brussels",
+    "gender": "ATP",
+    "start": "2026-10-19",
+    "qualificationStart": "2026-10-18",
+    "end": "2026-10-25",
+    "type": "250",
+    "location": "Belgium",
+    "surface": "Hard",
+    "info": {
+      "title": "BNP Paribas Fortis European Open",
+      "city": "Brussels",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2026-10-18",
+      "mainStart": "2026-10-19",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/european-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 9410,
+    "year": 2026,
+    "name": "Almaty",
+    "gender": "ATP",
+    "start": "2026-10-19",
+    "qualificationStart": "2026-10-18",
+    "end": "2026-10-25",
+    "type": "250",
+    "location": "Kazakhstan",
+    "surface": "Hard",
+    "info": {
+      "title": "Almaty Open",
+      "city": "Almaty",
+      "inOutdoor": "I",
+      "utcOffset": 5,
+      "qualStart": "2026-10-18",
+      "mainStart": "2026-10-19",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/almaty-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 328,
+    "year": 2026,
+    "name": "Basel",
+    "gender": "ATP",
+    "start": "2026-10-26",
+    "qualificationStart": "2026-10-24",
+    "end": "2026-11-01",
+    "type": "500",
+    "location": "Switzerland",
+    "surface": "Hard",
+    "info": {
+      "title": "Swiss Indoors Basel",
+      "city": "Basel",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2026-10-24",
+      "mainStart": "2026-10-26",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "metadata": {
+      "customRoute": "/tournaments/swiss-indoors",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 337,
+    "year": 2026,
+    "name": "Vienna",
+    "gender": "ATP",
+    "start": "2026-10-26",
+    "qualificationStart": "2026-10-24",
+    "end": "2026-11-01",
+    "type": "500",
+    "location": "Austria",
+    "surface": "Hard",
+    "info": {
+      "title": "Erste Bank Open",
+      "city": "Vienna",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2026-10-24",
+      "mainStart": "2026-10-26",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    },
+    "metadata": {
+      "customRoute": "/tournaments/vienna-open",
+      "matchesSize": "46"
+    }
+  },
+  {
+    "id": 352,
+    "year": 2026,
+    "name": "ATP Masters 1000 Paris",
+    "gender": "ATP",
+    "start": "2026-11-02",
+    "qualificationStart": "2026-10-31",
+    "end": "2026-11-08",
+    "type": "1000",
+    "location": "France",
+    "surface": "Hard",
+    "info": {
+      "title": "Rolex Paris Masters",
+      "city": "Paris",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2026-10-31",
+      "mainStart": "2026-11-02",
+      "drawSizeSM": 56,
+      "drawSizeDM": 24,
+      "drawSizeSQ": 28,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/paris-masters",
+      "matchesSize": "82"
+    }
+  },
+  {
+    "id": 429,
+    "year": 2026,
+    "name": "Stockholm",
+    "gender": "ATP",
+    "start": "2026-11-08",
+    "qualificationStart": "2026-11-07",
+    "end": "2026-11-14",
+    "type": "250",
+    "location": "Sweden",
+    "surface": "Hard",
+    "info": {
+      "title": "Bybit Stockholm Open",
+      "city": "Stockholm",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2026-11-07",
+      "mainStart": "2026-11-08",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/stockholm-open",
+      "matchesSize": "23"
+    }
+  },
+  {
+    "id": 605,
+    "year": 2026,
+    "name": "Nitto ATP Finals",
+    "gender": "ATP",
+    "start": "2026-11-15",
+    "end": "2026-11-22",
+    "type": "WC",
+    "location": "Italy",
+    "surface": "Hard",
+    "info": {
+      "title": "Nitto ATP Finals",
+      "city": "Turin",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "mainStart": "2026-11-15",
+      "drawSizeSM": 8,
+      "drawSizeDM": 0,
+      "drawSizeSQ": 0,
+      "drawSizeDQ": 0
+    },
+    "metadata": {
+      "customRoute": "/tournaments/nitto-atp-finals",
+      "matchesSize": "30"
+    }
+  },
+  {
+    "id": 9900,
+    "year": 2027,
+    "name": "United Cup",
+    "gender": "JOINT",
+    "start": "2027-01-01",
+    "end": "2027-01-11",
+    "type": "UC",
+    "surface": "Hard",
+    "info": {
+      "title": "United Cup",
+      "inOutdoor": "O",
+      "mainStart": "2027-01-01",
+      "drawSizeSM": 0,
+      "drawSizeSQ": 0
+    }
+  },
+  {
+    "id": 336,
+    "year": 2027,
+    "name": "Hong Kong",
+    "gender": "ATP",
+    "start": "2027-01-04",
+    "qualificationStart": "2027-01-03",
+    "end": "2027-01-10",
+    "type": "250",
+    "location": "Hong Kong",
+    "surface": "Hard",
+    "info": {
+      "title": "Bank of China Hong Kong Tennis Open",
+      "city": "Hong Kong",
+      "inOutdoor": "O",
+      "utcOffset": 8,
+      "qualStart": "2027-01-03",
+      "mainStart": "2027-01-04",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 339,
+    "year": 2027,
+    "name": "Brisbane",
+    "gender": "ATP",
+    "start": "2027-01-04",
+    "qualificationStart": "2027-01-03",
+    "end": "2027-01-10",
+    "type": "250",
+    "location": "Australia",
+    "surface": "Hard",
+    "info": {
+      "title": "Brisbane International presented by ANZ",
+      "city": "Brisbane",
+      "inOutdoor": "O",
+      "utcOffset": 10,
+      "qualStart": "2027-01-03",
+      "mainStart": "2027-01-04",
+      "drawSizeSM": 32,
+      "drawSizeDM": 24,
+      "drawSizeSQ": 24,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 301,
+    "year": 2027,
+    "name": "Auckland",
+    "gender": "ATP",
+    "start": "2027-01-11",
+    "qualificationStart": "2027-01-10",
+    "end": "2027-01-16",
+    "type": "250",
+    "location": "New Zealand",
+    "surface": "Hard",
+    "info": {
+      "title": "ASB Classic",
+      "city": "Auckland",
+      "inOutdoor": "O",
+      "utcOffset": 12,
+      "qualStart": "2027-01-10",
+      "mainStart": "2027-01-11",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 8998,
+    "year": 2027,
+    "name": "Adelaide",
+    "gender": "ATP",
+    "start": "2027-01-11",
+    "qualificationStart": "2027-01-10",
+    "end": "2027-01-16",
+    "type": "250",
+    "location": "Australia",
+    "surface": "Hard",
+    "info": {
+      "title": "Adelaide International",
+      "city": "Adelaide",
+      "inOutdoor": "O",
+      "utcOffset": 9.3,
+      "qualStart": "2027-01-10",
+      "mainStart": "2027-01-11",
+      "drawSizeSM": 28,
+      "drawSizeDM": 24,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 375,
+    "year": 2027,
+    "name": "Montpellier",
+    "gender": "ATP",
+    "start": "2027-02-01",
+    "qualificationStart": "2027-01-31",
+    "end": "2027-02-07",
+    "type": "250",
+    "location": "France",
+    "surface": "Hard",
+    "info": {
+      "title": "Open Occitanie",
+      "city": "Montpellier",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2027-01-31",
+      "mainStart": "2027-02-01",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 407,
+    "year": 2027,
+    "name": "Rotterdam",
+    "gender": "ATP",
+    "start": "2027-02-08",
+    "qualificationStart": "2027-02-06",
+    "end": "2027-02-14",
+    "type": "500",
+    "location": "Netherlands",
+    "surface": "Hard",
+    "info": {
+      "title": "ABN AMRO Open",
+      "city": "Rotterdam",
+      "inOutdoor": "I",
+      "utcOffset": 1,
+      "qualStart": "2027-02-06",
+      "mainStart": "2027-02-08",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    }
+  },
+  {
+    "id": 424,
+    "year": 2027,
+    "name": "Dallas",
+    "gender": "ATP",
+    "start": "2027-02-08",
+    "qualificationStart": "2027-02-06",
+    "end": "2027-02-14",
+    "type": "500",
+    "location": "TX, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Nexo Dallas Open",
+      "city": "Dallas",
+      "inOutdoor": "I",
+      "utcOffset": -6,
+      "qualStart": "2027-02-06",
+      "mainStart": "2027-02-08",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    }
+  },
+  {
+    "id": 506,
+    "year": 2027,
+    "name": "Buenos Aires",
+    "gender": "ATP",
+    "start": "2027-02-08",
+    "qualificationStart": "2027-02-07",
+    "end": "2027-02-14",
+    "type": "250",
+    "location": "Argentina",
+    "surface": "Clay",
+    "info": {
+      "title": "IEB+ Argentina Open",
+      "city": "Buenos Aires",
+      "inOutdoor": "O",
+      "utcOffset": -3,
+      "qualStart": "2027-02-07",
+      "mainStart": "2027-02-08",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 451,
+    "year": 2027,
+    "name": "Doha",
+    "gender": "ATP",
+    "start": "2027-02-15",
+    "qualificationStart": "2027-02-13",
+    "end": "2027-02-20",
+    "type": "500",
+    "location": "Qatar",
+    "surface": "Hard",
+    "info": {
+      "title": "Qatar ExxonMobil Open",
+      "city": "Doha",
+      "inOutdoor": "O",
+      "utcOffset": 3,
+      "qualStart": "2027-02-13",
+      "mainStart": "2027-02-15",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    }
+  },
+  {
+    "id": 6932,
+    "year": 2027,
+    "name": "Rio de Janeiro",
+    "gender": "ATP",
+    "start": "2027-02-15",
+    "qualificationStart": "2027-02-13",
+    "end": "2027-02-21",
+    "type": "500",
+    "location": "Brazil",
+    "surface": "Clay",
+    "info": {
+      "title": "Rio Open presented by Claro",
+      "city": "Rio de Janeiro",
+      "inOutdoor": "O",
+      "utcOffset": -3,
+      "qualStart": "2027-02-13",
+      "mainStart": "2027-02-15",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    }
+  },
+  {
+    "id": 499,
+    "year": 2027,
+    "name": "Delray Beach",
+    "gender": "ATP",
+    "start": "2027-02-15",
+    "qualificationStart": "2027-02-14",
+    "end": "2027-02-21",
+    "type": "250",
+    "location": "FL, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Delray Beach Open",
+      "city": "Delray Beach",
+      "inOutdoor": "O",
+      "utcOffset": -5,
+      "qualStart": "2027-02-14",
+      "mainStart": "2027-02-15",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 495,
+    "year": 2027,
+    "name": "Dubai",
+    "gender": "ATP",
+    "start": "2027-02-22",
+    "qualificationStart": "2027-02-20",
+    "end": "2027-02-27",
+    "type": "500",
+    "location": "U.A.E.",
+    "surface": "Hard",
+    "info": {
+      "title": "Dubai Duty Free Tennis Championships",
+      "city": "Dubai",
+      "inOutdoor": "O",
+      "utcOffset": 4,
+      "qualStart": "2027-02-20",
+      "mainStart": "2027-02-22",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    }
+  },
+  {
+    "id": 807,
+    "year": 2027,
+    "name": "Acapulco",
+    "gender": "ATP",
+    "start": "2027-02-22",
+    "qualificationStart": "2027-02-20",
+    "end": "2027-02-27",
+    "type": "500",
+    "location": "Mexico",
+    "surface": "Hard",
+    "info": {
+      "title": "Abierto Mexicano Telcel presentado por HSBC",
+      "city": "Acapulco",
+      "inOutdoor": "O",
+      "utcOffset": -6,
+      "qualStart": "2027-02-20",
+      "mainStart": "2027-02-22",
+      "drawSizeSM": 32,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 4
+    }
+  },
+  {
+    "id": 8996,
+    "year": 2027,
+    "name": "Santiago",
+    "gender": "ATP",
+    "start": "2027-02-22",
+    "qualificationStart": "2027-02-21",
+    "end": "2027-02-28",
+    "type": "250",
+    "location": "Chile",
+    "surface": "Clay",
+    "info": {
+      "title": "BCI Seguros Chile Open",
+      "city": "Santiago",
+      "inOutdoor": "O",
+      "utcOffset": -4,
+      "qualStart": "2027-02-21",
+      "mainStart": "2027-02-22",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 404,
+    "year": 2027,
+    "name": "ATP Masters 1000 Indian Wells",
+    "gender": "ATP",
+    "start": "2027-03-03",
+    "qualificationStart": "2027-03-01",
+    "end": "2027-03-14",
+    "type": "1000",
+    "location": "CA, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "BNP Paribas Open",
+      "city": "Indian Wells",
+      "inOutdoor": "O",
+      "utcOffset": -8,
+      "qualStart": "2027-03-01",
+      "mainStart": "2027-03-03",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 48,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 403,
+    "year": 2027,
+    "name": "ATP Masters 1000 Miami",
+    "gender": "ATP",
+    "start": "2027-03-17",
+    "qualificationStart": "2027-03-15",
+    "end": "2027-03-28",
+    "type": "1000",
+    "location": "FL, U.S.A.",
+    "surface": "Hard",
+    "info": {
+      "title": "Miami Open presented by Itau",
+      "city": "Miami",
+      "inOutdoor": "O",
+      "utcOffset": -5,
+      "qualStart": "2027-03-15",
+      "mainStart": "2027-03-17",
+      "drawSizeSM": 96,
+      "drawSizeDM": 32,
+      "drawSizeSQ": 48,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 360,
+    "year": 2027,
+    "name": "Marrakech",
+    "gender": "ATP",
+    "start": "2027-03-29",
+    "qualificationStart": "2027-03-28",
+    "end": "2027-04-04",
+    "type": "250",
+    "location": "Morocco",
+    "surface": "Clay",
+    "info": {
+      "title": "Grand Prix Hassan II",
+      "city": "Marrakech",
+      "inOutdoor": "O",
+      "utcOffset": 0,
+      "qualStart": "2027-03-28",
+      "mainStart": "2027-03-29",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 717,
+    "year": 2027,
+    "name": "Houston",
+    "gender": "ATP",
+    "start": "2027-03-29",
+    "qualificationStart": "2027-03-28",
+    "end": "2027-04-04",
+    "type": "250",
+    "location": "TX, U.S.A.",
+    "surface": "Clay",
+    "info": {
+      "title": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "city": "Houston",
+      "inOutdoor": "O",
+      "utcOffset": -6,
+      "qualStart": "2027-03-28",
+      "mainStart": "2027-03-29",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  },
+  {
+    "id": 4462,
+    "year": 2027,
+    "name": "Bucharest",
+    "gender": "ATP",
+    "start": "2027-03-29",
+    "qualificationStart": "2027-03-28",
+    "end": "2027-04-04",
+    "type": "250",
+    "location": "Romania",
+    "surface": "Clay",
+    "info": {
+      "title": "Tiriac Open presented by UniCredit Bank",
+      "city": "Bucharest",
+      "inOutdoor": "O",
+      "utcOffset": 2,
+      "qualStart": "2027-03-28",
+      "mainStart": "2027-03-29",
+      "drawSizeSM": 28,
+      "drawSizeDM": 16,
+      "drawSizeSQ": 16,
+      "drawSizeDQ": 0
+    }
+  }
+]
